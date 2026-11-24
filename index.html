@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Bellevue Menu</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' fill='black'/></svg>" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="head">
+    <div class="ident">
+      <strong>Bellevue</strong>
+      <span>Snowflake café menu</span>
+    </div>
+    <nav class="weeks" role="tablist" aria-label="Week">
+      <button role="tab" data-week="0" aria-selected="true"><span class="wk">This week</span><span class="rg" id="range-0"></span></button>
+      <button role="tab" data-week="1" aria-selected="false"><span class="wk">Next week</span><span class="rg" id="range-1"></span></button>
+    </nav>
+    <div class="aside">
+      <label class="check"><input type="checkbox" id="show-allergens" /><span class="box"></span>Show allergens</label>
+      <span id="legend" class="legend"></span>
+    </div>
+  </header>
+
+  <div id="notice" class="notice" hidden></div>
+
+  <main>
+    <div id="table" class="table" aria-live="polite"></div>
+    <div id="list" class="list"></div>
+  </main>
+
+  <footer class="foot">
+    <span id="updated"></span>
+    <span>Data from <a href="https://snowflake.sifted.co/bellevue/meals">snowflake.sifted.co</a>. Hover a dish for ingredients. Arrow keys change week.</span>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,198 @@
+/*
+  One typeface, two weights, black on white.
+  Hierarchy comes from size, weight and position only. Color is used for one
+  thing with meaning: the vegan/vegetarian marks.
+*/
+:root {
+  --fg: #000;
+  --fg-2: #555;
+  --fg-3: #999;
+  --bg: #fff;
+  --rule: #000;
+  --hair: #e2e2e2;
+  --tint: #f4f4f4;
+  --green: #0a8a3a;
+
+  --font: "Helvetica Neue", Helvetica, "Nimbus Sans", Arial, sans-serif;
+  --m: clamp(20px, 3vw, 48px); /* outer margin */
+  --label: 9.5rem;             /* station-name column */
+  --slim: 4.5rem;              /* days without service */
+  --gap: 20px;                 /* gutter, applied as cell padding so rules run unbroken */
+  color-scheme: light dark;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --fg: #fff; --fg-2: #aaa; --fg-3: #666; --bg: #000;
+    --rule: #fff; --hair: #262626; --tint: #111; --green: #35c46a;
+  }
+}
+
+* { box-sizing: border-box; }
+html { background: var(--bg); }
+body {
+  margin: 0; color: var(--fg);
+  font: 400 14px/1.4 var(--font);
+  font-feature-settings: "tnum", "lnum";
+  -webkit-font-smoothing: antialiased;
+}
+a { color: inherit; text-underline-offset: 2px; text-decoration-thickness: 1px; }
+button { font: inherit; color: inherit; }
+
+/* ---------- head ---------- */
+.head {
+  display: grid;
+  grid-template-columns: var(--label) 1fr auto;
+  align-items: end;
+  padding: 28px var(--m) 36px;
+}
+.ident { display: flex; flex-direction: column; gap: 2px; font-size: 14px; line-height: 1.25; }
+.ident strong { font-weight: 700; }
+.ident span { color: var(--fg-2); }
+
+.weeks { display: flex; gap: 40px; }
+.weeks button {
+  all: unset; cursor: pointer;
+  display: flex; flex-direction: column; gap: 6px;
+  color: var(--fg-3); transition: color .12s;
+}
+.weeks .wk { font-size: clamp(28px, 3.4vw, 44px); font-weight: 700; line-height: 1; letter-spacing: -0.03em; }
+.weeks .rg { font-size: 14px; }
+.weeks button:hover { color: var(--fg-2); }
+.weeks button[aria-selected="true"] { color: var(--fg); }
+.weeks button:focus-visible { outline: 2px solid var(--fg); outline-offset: 6px; }
+
+.aside { display: flex; flex-direction: column; align-items: flex-end; gap: 10px; font-size: 13px; color: var(--fg-2); }
+.legend { display: flex; gap: 16px; }
+.legend span { display: inline-flex; align-items: center; gap: 6px; }
+.legend .mark { margin: 0; }
+
+.check { display: inline-flex; align-items: center; gap: 8px; cursor: pointer; user-select: none; }
+.check input { position: absolute; opacity: 0; pointer-events: none; }
+.check .box { width: 12px; height: 12px; border: 1.5px solid var(--fg); }
+.check input:checked + .box { background: var(--fg); }
+.check input:focus-visible + .box { outline: 2px solid var(--fg); outline-offset: 2px; }
+.check:has(input:checked) { color: var(--fg); }
+
+.notice { margin: 0 var(--m) 24px; padding: 12px 0; border-top: 2px solid var(--rule); font-weight: 700; }
+
+/* ---------- timetable ---------- */
+.table { display: grid; padding: 0 var(--m); position: relative; }
+.table > * { position: relative; z-index: 1; min-width: 0; }
+.table > .today-col { z-index: 0; background: var(--tint); margin: 0 8px 0 -12px; }
+
+.corner, .dayhead {
+  position: sticky; top: 0; z-index: 3;
+  background: var(--bg);
+  padding: 0 var(--gap) 14px 0;
+}
+.table .dayhead { display: flex; flex-direction: column; gap: 6px; padding-left: 0; }
+.dayhead .num { font-size: 56px; font-weight: 700; line-height: .82; letter-spacing: -0.045em; }
+.dayhead .dow { font-size: 14px; }
+.dayhead .note { font-size: 13px; color: var(--fg-3); }
+.dayhead.past .num, .dayhead.past .dow { color: var(--fg-3); }
+.dayhead.off .num { font-size: 32px; color: var(--fg-3); }
+.dayhead.off .dow { color: var(--fg-3); }
+.table .dayhead:not(.off) { padding-left: 12px; margin-left: -12px; }
+
+/* Today: inverted header block, the one loud thing on the page. */
+.dayhead.today { background: var(--fg); color: var(--bg); padding: 12px 12px 14px; margin: 0 8px 0 -12px; }
+
+.meal {
+  margin: 0;
+  padding: 14px 0 18px;
+  border-top: 2px solid var(--rule);
+  font-size: 22px; font-weight: 700; letter-spacing: -0.02em; line-height: 1.1;
+}
+.meal ~ .meal { margin-top: 40px; }
+
+.station-name {
+  padding: 14px var(--gap) 18px 0;
+  border-top: 1px solid var(--hair);
+  font-weight: 700; font-size: 14px; line-height: 1.3;
+}
+.cell {
+  padding: 14px var(--gap) 18px 0;
+  border-top: 1px solid var(--hair);
+}
+.table .cell { padding-left: 0; }
+.meal + .station-name, .meal + .station-name ~ .cell { border-top-color: var(--hair); }
+.cell.past { color: var(--fg-3); }
+.cell.past .sides, .cell.past .more { color: var(--fg-3); }
+
+/* Same food several days running: one cell, with a span line like a timetable. */
+.span { display: flex; align-items: center; gap: 10px; margin: 0 0 10px; font-size: 12px; color: var(--fg-2); }
+.span::after { content: ""; flex: 1; height: 1px; background: var(--fg); }
+
+/* ---------- dishes ---------- */
+.dishes { list-style: none; margin: 0; padding: 0; }
+.dishes li, .dish { margin: 0; font-size: 15px; line-height: 1.3; font-weight: 500; letter-spacing: -0.01em; text-wrap: pretty; }
+.dishes li + li { margin-top: 6px; }
+.sides { margin: 8px 0 0; font-size: 13px; line-height: 1.45; color: var(--fg-2); text-wrap: pretty; }
+.dish + .sides { margin-top: 6px; }
+.nw { white-space: nowrap; }
+
+.mark { display: inline-block; width: 7px; height: 7px; border-radius: 50%; margin: 0 0 1px 5px; vertical-align: middle; font-style: normal; }
+.mark-VG { background: var(--green); }
+.mark-V { box-shadow: inset 0 0 0 1.5px var(--green); }
+.mark-text { font-style: normal; font-size: 10px; font-weight: 700; margin-left: 4px; }
+
+.allergens { display: none; }
+.show-allergens .allergens { display: block; font-size: 12px; font-weight: 400; color: var(--fg-3); letter-spacing: 0; margin-top: 1px; }
+.show-allergens .sides .allergens { display: inline; margin-left: 3px; }
+.show-allergens .sides .allergens::before { content: "("; }
+.show-allergens .sides .allergens::after { content: ")"; }
+
+.more { margin-top: 8px; font-size: 13px; color: var(--fg-2); }
+.more summary { list-style: none; cursor: pointer; display: inline; text-decoration: underline; text-decoration-color: var(--fg-3); text-underline-offset: 2px; }
+.more summary::-webkit-details-marker { display: none; }
+.more summary:hover { color: var(--fg); text-decoration-color: currentColor; }
+.more p { margin: 8px 0 0; line-height: 1.45; }
+.more b { font-weight: 700; color: var(--fg); margin-right: 4px; }
+
+.nothing { grid-column: 1 / -1; padding: 120px 0; font-size: 22px; font-weight: 700; color: var(--fg-3); }
+
+/* ---------- foot ---------- */
+.foot {
+  display: flex; flex-wrap: wrap; gap: 8px 32px;
+  margin: 56px var(--m) 0; padding: 14px 0 40px;
+  border-top: 2px solid var(--rule);
+  font-size: 13px; color: var(--fg-2);
+}
+
+/* ---------- phones ---------- */
+.list { display: none; }
+@media (max-width: 900px) {
+  :root { --label: 7.5rem; --gap: 14px; }
+  .head { grid-template-columns: 1fr; gap: 24px; padding-bottom: 28px; }
+  .weeks { gap: 28px; }
+  .aside { flex-direction: row-reverse; justify-content: space-between; align-items: center; }
+  .table { display: none; }
+  .list { display: block; padding: 0 var(--m); }
+  .daynav {
+    position: sticky; top: 0; z-index: 5;
+    display: grid; grid-auto-flow: column; grid-auto-columns: 1fr;
+    margin: 0 calc(-1 * var(--m)) 24px; padding: 10px var(--m) 0;
+    background: var(--bg); border-bottom: 2px solid var(--rule);
+  }
+  .daynav a {
+    display: flex; flex-direction: column; gap: 2px; padding: 0 0 10px;
+    text-decoration: none; color: var(--fg-2);
+    border-bottom: 4px solid transparent; margin-bottom: -2px;
+  }
+  .daynav .dow { font-size: 12px; }
+  .daynav .num { font-size: 24px; font-weight: 700; line-height: 1; letter-spacing: -0.03em; }
+  .daynav a.today .dow::after { content: " ·"; }
+  .daynav a.today .dow { color: var(--fg); font-weight: 700; }
+  .daynav a.off { color: var(--fg-3); }
+  .daynav a.active { color: var(--fg); border-bottom-color: var(--fg); }
+  .lday .dayhead { scroll-margin-top: 84px !important; }
+  .lday + .lday { margin-top: 48px; }
+  .lday .dayhead { position: static; display: flex; align-items: baseline; gap: 10px; padding: 0 0 14px; scroll-margin-top: 16px; }
+  .lday .dayhead.today { margin: 0 calc(-1 * var(--m)); padding: 14px var(--m); }
+  .lday.off .num { font-size: 32px; color: var(--fg-3); }
+  .lday.off .note { margin: 0; padding-top: 10px; border-top: 2px solid var(--rule); color: var(--fg-3); }
+  .lday.past { color: var(--fg-3); }
+  .lday .meal ~ .meal { margin-top: 24px; }
+  .lrow { display: grid; grid-template-columns: var(--label) 1fr; }
+  .lrow .cell { padding-right: 0; }
+}

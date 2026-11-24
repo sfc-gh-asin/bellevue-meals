@@ -1,0 +1,33 @@
+name: Update meals
+
+on:
+  schedule:
+    # 14:00 UTC = 6am PST / 7am PDT, Mon–Fri. Plus Sunday so next week is fresh for Monday.
+    - cron: "0 14 * * 1-5"
+    - cron: "0 20 * * 0"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python3 scripts/fetch_meals.py
+      - run: python3 scripts/validate.py
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- data/meals.json; then
+            echo "No menu changes."
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898333+github-actions[bot]@users.noreply.github.com"
+            git add data/meals.json
+            git commit -m "Update meals $(date -u +%Y-%m-%d)"
+            git push
+          fi

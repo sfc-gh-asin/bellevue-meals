@@ -1,0 +1,3492 @@
+{
+ "location": "Bellevue",
+ "updated": "2026-11-23T20:40:27+00:00",
+ "days": [
+  {
+   "date": "2026-11-23",
+   "meals": [
+    {
+     "name": "Lunch",
+     "stations": [
+      {
+       "name": "Wrap Culture",
+       "items": [
+        {
+         "name": "Strawberry Tofu Salad",
+         "main": true,
+         "tags": [
+          "V"
+         ],
+         "allergens": [
+          "Milk",
+          "Soy",
+          "Wheat"
+         ],
+         "ingredients": "Mixed Greens, Tofu, Edamame, Strawberry, Feta, Crouton, Cucumber, Balsamic Dressing."
+        },
+        {
+         "name": "Caesar Salad",
+         "main": true,
+         "allergens": [
+          "Egg",
+          "Fish",
+          "Milk",
+          "Soy",
+          "Wheat"
+         ],
+         "ingredients": "romaine, parmesan, chicken, croutons, Caesar dressing (mayonnaise*, lemon juice*, garlic, anchovy paste*, vinegar, parmesan cheese, *sour cream*, black pepper, salt)"
+        }
+       ],
+       "extras": [
+        {
+         "label": "bases",
+         "items": [
+          "Flour Tortilla",
+          "Spring Mix",
+          "Romaine",
+          "Quinoa",
+          "Boiled Egg"
+         ]
+        },
+        {
+         "label": "more",
+         "items": [
+          "White Bean Salad",
+          "Sesame Asian Chicken Salad"
+         ]
+        },
+        {
+         "label": "toppings",
+         "items": [
+          "Assorted Veggies",
+          "Edamame",
+          "Cucumber",
+          "Black Olives",
+          "Bell Pepper",
+          "Tomatoes",
+          "Strawberry",
+          "Grilled Chicken",
+          "Herb Roasted Tofu",
+          "Assorted Toppings",
+          "Smoked Turkey",
+          "Pepperoncini",
+          "Mama Lil's Pepper",
+          "Carrots",
+          "Crispy Onion",
+          "Pickled Red Onion",
+          "Assorted Cheeses",
+          "Cheddar",
+          "Parmesan",
+          "Swiss Cheese"
+         ]
+        },
+        {
+         "label": "dressings",
+         "items": [
+          "Balsamic Dressing",
+          "Vegan Ranch Dressing",
+          "Caesar Dressing",
+          "French Vinaigrette",
+          "Green Goddess Dressing"
+         ]
+        }
+       ]
+      },
+      {
+       "name": "Pure",
+       "items": [
+        {
+         "name": "Garbanzo Bean Salad",
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "Garbanzo beans, Fennel, Brussels Sprouts, Arugula, Olive Oil, Lime Zest, Salt"
+        },
+        {
+         "name": "Herb Grilled Tofu",
+         "main": true,
+         "tags": [
+          "VG"
+         ],
+         "allergens": [
+          "Soy"
+         ],
+         "ingredients": "tofu, olive oil, herbs, salt"
+        },
+        {
+         "name": "Steamed Cauliflower",
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "cauliflower"
+        },
+        {
+         "name": "Sweet Potato and Butternut Squash Soup",
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "Sweet Potato, Butternut Squash, Vegetable Stock, Maple Syrup, Herbed Olive Oil, Nutmeg, Clove, Cinnamon, oat milk"
+        },
+        {
+         "name": "Oven Roasted Herb Chicken",
+         "main": true,
+         "ingredients": "Chicken, olive oil, salt, pepper, herbs"
+        }
+       ]
+      },
+      {
+       "name": "Rotating Plate",
+       "items": [
+        {
+         "name": "Tuscan Roast Pork & Broccoli Raab",
+         "main": true,
+         "allergens": [
+          "Fish"
+         ],
+         "ingredients": "Pork Butt, Onion, Garlic, Onion, white wine, Sage, Oregano, Parsley, Lemon Zest, Salt, Pepper, Olive oil, Anchovy"
+        },
+        {
+         "name": "Herb Roasted Portabella Mushroom Steaks",
+         "main": true,
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "Portabella Mushroom, garlic, Herbs, Olive oil, Salt, Pepper"
+        },
+        {
+         "name": "White Bean Salad",
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "White Beans, Red Onion, Tomato, Spinach, Olive Oil, Red Wine Vinegar, Parsley, Rosemary, Lemon Zest, Lemon Juice, Salt, Pepper"
+        },
+        {
+         "name": "Roasted Peppers with Garlic & Olive Oil",
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "Bell Pepper, Garlic, Parsley, Dill, Oregano, Salt, Pepper, Red wine vinegar, Onion"
+        },
+        {
+         "name": "Focaccia Bread",
+         "tags": [
+          "VG"
+         ],
+         "allergens": [
+          "Wheat"
+         ],
+         "ingredients": "Flour, olive oil, salt, Yeast, Sugar, Water, Herbs"
+        }
+       ]
+      },
+      {
+       "name": "Wok N tandoor",
+       "items": [
+        {
+         "name": "Korean Wok Fried Chicken (Dak Galbi)",
+         "main": true,
+         "allergens": [
+          "Soy",
+          "Wheat"
+         ],
+         "ingredients": "Chicken Thigh, Onion, Carrot, Potato, Garlic, Ginger, Scallion, Gochujang Sauce*, Sugar, Tamari*, Vinegar, honey"
+        },
+        {
+         "name": "Stir Fried Vegetables Dak Galbi",
+         "main": true,
+         "allergens": [
+          "Soy",
+          "Wheat"
+         ],
+         "ingredients": "Onion, Potato, Carrot, Baby Corn, Broccoli, Scallions, Asparagus, Ginger, Garlic, Scallion, Gochujang Sauce*, Tamari*, Rice bran Oil, Honey"
+        },
+        {
+         "name": "Sesame Souffled Egg",
+         "tags": [
+          "V"
+         ],
+         "allergens": [
+          "Egg",
+          "Sesame",
+          "Soy"
+         ],
+         "ingredients": "Liquid Egg, MSG*, Tamari*, Scallion, sesame oil, Sesame Seed"
+        },
+        {
+         "name": "Heukmi Bap",
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "Calrose rice, forbidden rice, Water"
+        },
+        {
+         "name": "Corn Cheese",
+         "tags": [
+          "V"
+         ],
+         "allergens": [
+          "Egg",
+          "Milk",
+          "Soy",
+          "Wheat"
+         ],
+         "ingredients": "Corn, Mozzarella, Salt, Pepper, Mayonnaise*, Scallion, Butter, flour"
+        },
+        {
+         "name": "Kimchi",
+         "tags": [
+          "VG"
+         ],
+         "allergens": [
+          "Soy"
+         ],
+         "ingredients": "napa cabbage, carrot, scallion, apple, onion, gochugaru*, vegan fish sauce*, rice flour"
+        }
+       ]
+      },
+      {
+       "name": "Sweet Spot",
+       "items": [
+        {
+         "name": "Yogurt Panna Cotta with Rosemary and Honey",
+         "allergens": [
+          "Milk"
+         ],
+         "ingredients": "gelatin (may contain animal byproduct), heavy cream, sugar, vanilla, yogurt, honey, rosemary",
+         "main": true
+        },
+        {
+         "name": "Fruit"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Breakfast",
+     "stations": [
+      {
+       "name": "Hot Breakfast",
+       "items": [
+        {
+         "name": "Bacon, Egg & Cheese Croissant",
+         "main": true,
+         "allergens": [
+          "Egg",
+          "Milk",
+          "Soy",
+          "Wheat"
+         ],
+         "ingredients": "croissant*, bacon, egg, swiss cheese, salt, black pepper, sriracha aioli (sriracha, vegan mayonnaise*, salt, pepper)"
+        },
+        {
+         "name": "Egg & Cheese Croissant",
+         "main": true,
+         "tags": [
+          "V"
+         ],
+         "allergens": [
+          "Egg",
+          "Milk",
+          "Soy",
+          "Wheat"
+         ],
+         "ingredients": "croissant*, egg, swiss cheese, salt, black pepper, sriracha aioli (sriracha, vegan mayonnaise*, salt, pepper)"
+        }
+       ],
+       "extras": [
+        {
+         "label": "sauces",
+         "items": [
+          "Sriracha Aioli"
+         ]
+        }
+       ]
+      },
+      {
+       "name": "Continental Breakfast",
+       "items": [
+        {
+         "name": "Overnight Oats",
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "Rolled Oats, Coconut Milk, Vanilla, Agave, Salt"
+        },
+        {
+         "name": "Chia Pudding",
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "coconut milk, chia seed, agave, salt"
+        },
+        {
+         "name": "Greek Yogurt",
+         "tags": [
+          "V"
+         ],
+         "allergens": [
+          "Milk"
+         ],
+         "ingredients": "Greek Yogurt"
+        },
+        {
+         "name": "Vegan Coconut Yogurt",
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "Plant based Coconut Yogurt"
+        },
+        {
+         "name": "Oats",
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "Oats, water"
+        },
+        {
+         "name": "Seasonal Fruit",
+         "tags": [
+          "VG"
+         ]
+        },
+        {
+         "name": "Hard Boiled Eggs",
+         "tags": [
+          "V"
+         ],
+         "allergens": [
+          "Egg"
+         ],
+         "ingredients": "Egg"
+        },
+        {
+         "name": "Macrina Almond Chocolate Orange Coffee Cake",
+         "tags": [
+          "V"
+         ],
+         "allergens": [
+          "Egg",
+          "Milk",
+          "Tree nuts (almond)",
+          "Wheat"
+         ]
+        }
+       ],
+       "extras": [
+        {
+         "label": "more",
+         "items": [
+          "Blueberries",
+          "Pineapple",
+          "HoneyDew",
+          "Canteloupe",
+          "Chia Seed",
+          "Cottage Cheese",
+          "Gluten Free Bread",
+          "Sourdough",
+          "Whole Wheat Bread",
+          "Pear, Rosemary, Cinnamon Spa Water",
+          "Carrot, Date Spa Water"
+         ]
+        },
+        {
+         "label": "toppings",
+         "items": [
+          "Watermelon",
+          "Granola",
+          "Almonds",
+          "Walnut",
+          "Assorted Nuts",
+          "Golden Raisins",
+          "Chocolate Chips",
+          "Butter",
+          "Brown Sugar",
+          "Cream Cheese",
+          "Peanut Butter",
+          "Assorted Toppings",
+          "Assorted Spreads"
+         ]
+        },
+        {
+         "label": "sauces",
+         "items": [
+          "Jam"
+         ]
+        }
+       ]
+      },
+      {
+       "name": "Sweet Spot",
+       "items": [
+        {
+         "name": "6th floor Shortbread Cookies",
+         "tags": [
+          "V"
+         ],
+         "allergens": [
+          "Egg",
+          "Milk",
+          "Wheat"
+         ],
+         "ingredients": "Flour, Butter, Sugar, Eggs, Baking Powder",
+         "main": true
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "meals": [
+    {
+     "name": "Lunch",
+     "stations": [
+      {
+       "name": "Wrap Culture",
+       "items": [
+        {
+         "name": "White Bean Salad",
+         "main": true,
+         "tags": [
+          "VG"
+         ],
+         "allergens": [
+          "Wheat"
+         ],
+         "ingredients": "white beans, herb oil, salt, pepper"
+        },
+        {
+         "name": "Caesar Salad",
+         "main": true,
+         "allergens": [
+          "Egg",
+          "Fish",
+          "Milk",
+          "Wheat"
+         ],
+         "ingredients": "romaine, parmesan, bacon, chicken, croutons, Caesar dressing (mayonnaise*, lemon juice*, garlic, anchovy paste*, vinegar, parmesan cheese, *sour cream*, black pepper, salt)"
+        },
+        {
+         "name": "Strawberry Tofu Salad",
+         "main": true,
+         "allergens": [
+          "Soy",
+          "Wheat"
+         ],
+         "ingredients": "Mixed Greens, Tofu, Edamame, Strawberry, Crouton, Cucumber, Balsamic Dressing"
+        }
+       ],
+       "extras": [
+        {
+         "label": "bases",
+         "items": [
+          "Spring Mix*",
+          "Romaine*",
+          "Boiled Egg",
+          "Flour Tortilla*",
+          "Quinoa"
+         ]
+        },
+        {
+         "label": "toppings",
+         "items": [
+          "Strawberry*",
+          "Salami*",
+          "Herb Roasted Tofu",
+          "Parmesan*",
+          "Edamame*",
+          "Cheeses",
+          "Tomatoes*",
+          "Pickled Red Onion",
+          "Pepperoncini*",
+          "Veggies",
+          "Mama Lil's Pepper*",
+          "Assorted Toppings",
+          "Cheddar*",
+          "Crispy Onion",
+          "Feta*",
+          "Grilled Chicken",
+          "Olives*",
+          "Cucumber*",
+          "Bell Pepper*"
+         ]
+        },
+        {
+         "label": "dressings",
+         "items": [
+          "Balsamic Dressing",
+          "French Vinaigrette",
+          "Vegan Ranch Dressing",
+          "Green Goddess Dressing",
+          "Caesar Dressing"
+         ]
+        }
+       ]
+      },
+      {
+       "name": "Pure",
+       "items": [
+        {
+         "name": "Vegan Soup",
+         "tags": [
+          "VG"
+         ]
+        },
+        {
+         "name": "Broccoli Steaks",
+         "main": true,
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "broccoli, olive oil, salt"
+        },
+        {
+         "name": "Brown Rice",
+         "tags": [
+          "VG"
+         ]
+        },
+        {
+         "name": "Roasted Pork Loin",
+         "main": true,
+         "ingredients": "Pork loin, olive oil, salt, herbs"
+        },
+        {
+         "name": "Carrots",
+         "tags": [
+          "VG"
+         ]
+        }
+       ]
+      },
+      {
+       "name": "Rotating Plate",
+       "items": [
+        {
+         "name": "Lentil Patty",
+         "main": true,
+         "allergens": [
+          "Egg",
+          "Soy",
+          "Wheat"
+         ],
+         "ingredients": "Lentil, Onion, Garlic, Carrot ,Mushroom, Panko\nEgg, Cumin, Smoked Paprika, Coriander\nParsley, Tamari, Tomato Paste, Evoo, Salt, Pepper"
+        },
+        {
+         "name": "Stuffing",
+         "allergens": [
+          "Wheat"
+         ],
+         "ingredients": "bread*, celery, onion, carrot, dried cranberries, sage, thyme, vegetable stock, vegan butter"
+        },
+        {
+         "name": "Mashed Potatoes",
+         "ingredients": "Russet Potato, Milk, Heavy Cream, Garlic, Salt, Butter"
+        },
+        {
+         "name": "Roast Turkey",
+         "main": true,
+         "ingredients": "Turkey, salt, pepper, lemon, rosemary, sage, thyme, garlic"
+        },
+        {
+         "name": "Roasted Acorn",
+         "ingredients": "Acorn Squash, salt, Olive oil, maple syrup, lemon juice, parsley"
+        }
+       ],
+       "extras": [
+        {
+         "label": "sauces",
+         "items": [
+          "Mushroom Gravy"
+         ]
+        },
+        {
+         "label": "toppings",
+         "items": [
+          "Cranberry Sauce"
+         ]
+        }
+       ]
+      },
+      {
+       "name": "Wok N tandoor",
+       "items": [
+        {
+         "name": "Thai Red Rice",
+         "tags": [
+          "VG"
+         ]
+        },
+        {
+         "name": "Thai Roasted Tofu",
+         "main": true,
+         "tags": [
+          "VG"
+         ],
+         "allergens": [
+          "Soy"
+         ],
+         "ingredients": "Garlic, Ginger, Chili, Rice Bran Oil, Vegan Fish Sauce*, Lime Juice, scallion, cilantro, basil, mint"
+        },
+        {
+         "name": "Thai Flank Steak",
+         "main": true,
+         "allergens": [
+          "Fish"
+         ],
+         "ingredients": "Garlic, Ginger, Chili, Rice Bran Oil, Fish Sauce*, Lime Juice, scallion, cilantro, basil, mint"
+        },
+        {
+         "name": "Nam Phrik Pao Cauliflower",
+         "tags": [
+          "VG"
+         ],
+         "allergens": [
+          "Soy"
+         ],
+         "ingredients": "garlic, ginger, shallots, palm sugar, vegan fish sauce*, dried chilies, thai chilies, cauliflower, cilantro, salt, pepper"
+        }
+       ],
+       "extras": [
+        {
+         "label": "toppings",
+         "items": [
+          "Fried Shallots",
+          "Scallion",
+          "Chopped Peanuts*"
+         ]
+        },
+        {
+         "label": "sauces",
+         "items": [
+          "Nam Jim Jaew Sauce"
+         ]
+        }
+       ]
+      },
+      {
+       "name": "Hot Hands",
+       "items": [
+        {
+         "name": "Coleslaw",
+         "tags": [
+          "V"
+         ],
+         "allergens": [
+          "Egg"
+         ],
+         "ingredients": "red and green cabbage, white vinegar, agave, mayo, carrots, salt and pepper"
+        },
+        {
+         "name": "Onion Rings",
+         "tags": [
+          "V"
+         ],
+         "allergens": [
+          "Egg",
+          "Milk",
+          "Soy",
+          "Wheat"
+         ]
+        },
+        {
+         "name": "Smoked Mushroom Chopped Cheese",
+         "main": true,
+         "tags": [
+          "VG"
+         ],
+         "allergens": [
+          "Soy",
+          "Wheat"
+         ],
+         "ingredients": "Mushroom, Onion, Adobo Seasoning (Garlic powder, Onion Powder, Salt, Oregano, Black Pepper, Turmeric, Cumin), Rice Bran Oil, Iceberg Lettuce, Tomato, Hoagie Roll, Vegan Cheese*, Mayonnaise, Ketchup"
+        },
+        {
+         "name": "Chopped Cheese",
+         "main": true,
+         "allergens": [
+          "Milk",
+          "Wheat"
+         ],
+         "ingredients": "Ground Beef, Onion, Adobo Seasoning (Garlic powder, Onion Powder, Salt, Oregano, Black Pepper, Turmeric, Cumin), Rice Bran Oil, Pepper, Iceberg Lettuce, Tomato, Hoagie Roll, American Cheese."
+        },
+        {
+         "name": "French Fries",
+         "tags": [
+          "VG"
+         ]
+        }
+       ],
+       "extras": [
+        {
+         "label": "sauces",
+         "items": [
+          "House Fry Sauce"
+         ]
+        }
+       ]
+      },
+      {
+       "name": "Sweet Spot",
+       "items": [
+        {
+         "name": "Bourbon Pecan Pie",
+         "tags": [
+          "V"
+         ],
+         "allergens": [
+          "Egg",
+          "Milk",
+          "Tree nuts (pecan)",
+          "Wheat"
+         ],
+         "ingredients": "Brown Sugar, Maple syrup, Eggs, Bourbon, butter, Ginger, Vanilla, Salt, Pecan, Tart Dough (Butter, flour, salt, water, sugar) (Contains Alcohol)",
+         "main": true
+        },
+        {
+         "name": "Fruit"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Breakfast",
+     "stations": [
+      {
+       "name": "Hot Breakfast",
+       "items": [
+        {
+         "name": "Chinese Sesame Tomato Egg Stir Fry with Rice",
+         "main": true,
+         "allergens": [
+          "Egg",
+          "Sesame"
+         ],
+         "ingredients": "rice, tomato, scallion, egg, salt, white pepper, sesame oil, Shaoxing wine, rice bran oil, sugar"
+        },
+        {
+         "name": "Chinese Sesame Tomato & Tofu Stir Fry",
+         "main": true,
+         "tags": [
+          "VG"
+         ],
+         "allergens": [
+          "Sesame",
+          "Soy"
+         ],
+         "ingredients": "rice, tomato, scallion, tofu, salt, white pepper, sesame oil, Shaoxing wine, rice bran oil, sugar"
+        }
+       ]
+      },
+      {
+       "name": "Continental Breakfast",
+       "items": [
+        {
+         "name": "Macrina Spinach Cheese Buns",
+         "tags": [
+          "V"
+         ],
+         "allergens": [
+          "Egg",
+          "Milk",
+          "Wheat"
+         ]
+        },
+        {
+         "name": "Vegan Coconut Yogurt",
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "Plant based Coconut Yogurt"
+        },
+        {
+         "name": "Greek Yogurt",
+         "tags": [
+          "V"
+         ],
+         "allergens": [
+          "Milk"
+         ],
+         "ingredients": "Greek Yogurt"
+        },
+        {
+         "name": "Cranberry Orange Bars",
+         "tags": [
+          "V"
+         ],
+         "allergens": [
+          "Egg",
+          "Milk",
+          "Wheat"
+         ],
+         "ingredients": "butter, brown sugar, eggs, orange zest, orange juice, vanilla, ginger, cardamom, baking powder, salt, flour, white chocolate chips, dried cranberries, cream cheese, powdered sugar"
+        },
+        {
+         "name": "Chia Pudding",
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "coconut milk, chia seed, agave, salt"
+        },
+        {
+         "name": "Overnight Oats",
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "Rolled Oats, Coconut Milk, Vanilla, Agave, Salt"
+        },
+        {
+         "name": "Hard Boiled Eggs",
+         "tags": [
+          "V"
+         ],
+         "allergens": [
+          "Egg"
+         ],
+         "ingredients": "Egg"
+        },
+        {
+         "name": "Seasonal Fruit",
+         "tags": [
+          "VG"
+         ]
+        },
+        {
+         "name": "Oats",
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "Oats, water"
+        }
+       ],
+       "extras": [
+        {
+         "label": "more",
+         "items": [
+          "Spa Water 1",
+          "Whole Wheat Bread",
+          "HoneyDew",
+          "Canteloupe",
+          "Cottage Cheese",
+          "Gluten Free Bread",
+          "Blueberries",
+          "Pineapple",
+          "Sourdough",
+          "Spa Water 2",
+          "Chia Seed"
+         ]
+        },
+        {
+         "label": "toppings",
+         "items": [
+          "Walnut",
+          "Watermelon",
+          "Chocolate Chips",
+          "Butter",
+          "Brown Sugar",
+          "Assorted Toppings",
+          "Granola",
+          "Peanut Butter",
+          "Almonds",
+          "Assorted Nuts",
+          "Golden Raisins",
+          "Assorted Spreads",
+          "Cream Cheese"
+         ]
+        },
+        {
+         "label": "sauces",
+         "items": [
+          "Jam"
+         ]
+        }
+       ]
+      },
+      {
+       "name": "Sweet Spot",
+       "items": [
+        {
+         "name": "6th floor Shortbread Cookies",
+         "tags": [
+          "V"
+         ],
+         "allergens": [
+          "Egg",
+          "Milk",
+          "Wheat"
+         ],
+         "ingredients": "Flour, Butter, Sugar, Eggs, Baking Powder",
+         "main": true
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-11-25",
+   "meals": [
+    {
+     "name": "Lunch",
+     "stations": [
+      {
+       "name": "Wrap Culture",
+       "items": [
+        {
+         "name": "Strawberry Chicken Salad",
+         "main": true,
+         "allergens": [
+          "Milk",
+          "Soy",
+          "Wheat"
+         ],
+         "ingredients": "Mixed Greens, Grilled Chicken, Edamame, Strawberry, Feta, Crouton, Cucumber, Balsamic Dressing."
+        },
+        {
+         "name": "White Bean Salad",
+         "main": true,
+         "tags": [
+          "VG"
+         ],
+         "allergens": [
+          "Wheat"
+         ],
+         "ingredients": "white beans, herb oil, salt, pepper"
+        },
+        {
+         "name": "Caesar Salad",
+         "main": true,
+         "allergens": [
+          "Egg",
+          "Fish",
+          "Milk",
+          "Wheat"
+         ],
+         "ingredients": "romaine, parmesan, bacon, chicken, croutons, Caesar dressing (mayonnaise*, lemon juice*, garlic, anchovy paste*, vinegar, parmesan cheese, *sour cream*, black pepper, salt)"
+        }
+       ],
+       "extras": [
+        {
+         "label": "dressings",
+         "items": [
+          "Green Goddess Dressing",
+          "Vegan Ranch Dressing",
+          "Caesar Dressing",
+          "Balsamic Dressing",
+          "French Vinaigrette"
+         ]
+        },
+        {
+         "label": "toppings",
+         "items": [
+          "Parmesan*",
+          "Pickled Red Onion",
+          "Cheddar*",
+          "Assorted Toppings",
+          "Edamame*",
+          "Herb Roasted Tofu",
+          "Cucumber*",
+          "Cheeses",
+          "Grilled Chicken",
+          "Salami*",
+          "Feta*",
+          "Strawberry*",
+          "Crispy Onion",
+          "Veggies",
+          "Pepperoncini*",
+          "Tomatoes*",
+          "Bell Pepper*",
+          "Olives*",
+          "Mama Lil's Pepper*"
+         ]
+        },
+        {
+         "label": "bases",
+         "items": [
+          "Romaine*",
+          "Spring Mix*",
+          "Boiled Egg",
+          "Quinoa",
+          "Flour Tortilla*"
+         ]
+        }
+       ]
+      },
+      {
+       "name": "Pure",
+       "items": [
+        {
+         "name": "Sweet Potato and Edamame Salad",
+         "tags": [
+          "VG"
+         ],
+         "allergens": [
+          "Soy"
+         ],
+         "ingredients": "Sweet Potato, Edamame, Lemon Juice, Olive oil, salt"
+        },
+        {
+         "name": "Miso Roasted Cabbage Steaks with Tofu",
+         "main": true,
+         "tags": [
+          "VG"
+         ],
+         "allergens": [
+          "Soy"
+         ],
+         "ingredients": "Cabbage, Tofu, Miso, Olive oil, Lemon Juice, Agave"
+        },
+        {
+         "name": "Green Peas",
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "peas"
+        },
+        {
+         "name": "Smoked Chicken",
+         "main": true,
+         "ingredients": "chicken, wood chips, salt, pepper, olive oil"
+        },
+        {
+         "name": "Vegan Soup",
+         "tags": [
+          "VG"
+         ]
+        }
+       ]
+      },
+      {
+       "name": "Rotating Plate",
+       "items": [
+        {
+         "name": "Collard Greens",
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "collard Greeens, Onion, Garlic, Red Pepper flakes, Red wine vinegar, salt, Rice Bran Oil"
+        },
+        {
+         "name": "Smothered Cauliflower",
+         "main": true,
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "Cauliflower, Onion, Garlic, Paprika, Rice Bran Oil, Salt, Pepper, Red Pepper flakes, Parsley"
+        },
+        {
+         "name": "Southern Stewed Chicken with Crispy Onions",
+         "main": true,
+         "allergens": [
+          "Milk"
+         ],
+         "ingredients": "Chicken Thighs , Onion, Garlic, Chicken Stock (Onion, Carrot, Celery, Garlic, Herbs) Okra, Dice Tomatoes, Paprika, Butter, Flour, lemon Juice, Worcestershire sauce"
+        },
+        {
+         "name": "Buttermilk Biscuits",
+         "main": true,
+         "tags": [
+          "V"
+         ],
+         "allergens": [
+          "Milk",
+          "Wheat"
+         ],
+         "ingredients": "Butter, Flour, Heavy Cream, Salt, Sugar, Baking Powder, Buttermilk"
+        }
+       ],
+       "extras": [
+        {
+         "label": "sauces",
+         "items": [
+          "Buttermilk Sauce"
+         ]
+        }
+       ]
+      },
+      {
+       "name": "Wok N tandoor",
+       "items": [
+        {
+         "name": "Jasmine Rice",
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "Jasmine rice, water"
+        },
+        {
+         "name": "Sesame Oi Muchin",
+         "tags": [
+          "VG"
+         ],
+         "allergens": [
+          "Sesame"
+         ],
+         "ingredients": "Cucumber, Salt, Gochugaru, Garlic, Sesame Oil, Sesame seeds, sugar"
+        },
+        {
+         "name": "Roasted Eggplant with Soy Glaze",
+         "tags": [
+          "VG"
+         ],
+         "allergens": [
+          "Soy"
+         ],
+         "ingredients": "Eggplant, Cornstarch, Rice bran Oil, Salt, Sugar, Tamari, sake"
+        },
+        {
+         "name": "Roasted Tofu and Cabbage with Teriyaki Sauce",
+         "main": true,
+         "tags": [
+          "VG"
+         ],
+         "allergens": [
+          "Soy"
+         ],
+         "ingredients": "Tofu, Cabbage,  non-gmo rice bran oil, salt, pepper, teriyaki sauce (onion, ginger, garlic, tamari*, pineapple juice,  sake, vegan butter*, mirin*, potato starch, sugar)"
+        },
+        {
+         "name": "Teriyaki Grilled Chicken & Scallions",
+         "main": true,
+         "allergens": [
+          "Soy"
+         ],
+         "ingredients": "chicken, non-gmo rice bran oil, salt, pepper, teriyaki sauce (onion, ginger, garlic, tamari*, pineapple juice,  sake, vegan butter*,  mirin*, pepper, potato starch, sugar)"
+        }
+       ]
+      },
+      {
+       "name": "Hot Hands",
+       "items": [
+        {
+         "name": "Caramelized Onion, Brie, Apple and Prosciutto Pizza",
+         "main": true,
+         "allergens": [
+          "Milk",
+          "Wheat"
+         ],
+         "ingredients": "Pizza dough (Flour, Barley Malt, Yeast, Olive Oil, Salt, Edison Bread Flour), Onion, Brie Cheese, Prosciutto, Apple, Thyme, Rice Bran Oil"
+        },
+        {
+         "name": "Mushroom and Fontina Cheese Pizza",
+         "main": true,
+         "tags": [
+          "V"
+         ],
+         "allergens": [
+          "Milk",
+          "Wheat"
+         ],
+         "ingredients": "Pizza Dough (Flour, Barley Malt, Yeast, Olive Oil, Salt, Edison Bread Flour), Fontina Cheese blend, Mushroom, Garlic, Salt, Pepper"
+        },
+        {
+         "name": "Pepperoni Pizza",
+         "main": true,
+         "tags": [
+          "V"
+         ],
+         "allergens": [
+          "Milk",
+          "Wheat"
+         ],
+         "ingredients": "Pizza Dough (Flour, Barley Malt, Yeast, Olive Oil, Salt, Edison Bread Flour) Tomato Sauce (Crushed Tomato, Olive Oil, Onion, Garlic, Basil, Oregano, Salt, Pepper) Mozzarella Cheese"
+        },
+        {
+         "name": "Chopped Salad",
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "Romaine lettuce, Red Cabbage, Garbanzo Bean, Tomato, Cucumber, Pickled Red Onion, Pickling Spice, Pepperoncini Peppers, Red Wine Vinegar, Oregano, Basil, Onion Powder, Salt, Black Pepper, Olive Oil, Rice Bran Oil, Basil, jalapeno, garlic powder, pickled cauliflower, carrot, garlic, cucumber, celery"
+        }
+       ]
+      },
+      {
+       "name": "Sweet Spot",
+       "items": [
+        {
+         "name": "Fruit"
+        },
+        {
+         "name": "Pumpkin Walnut Crunch",
+         "tags": [
+          "V"
+         ],
+         "allergens": [
+          "Egg",
+          "Milk",
+          "Soy",
+          "Wheat"
+         ],
+         "ingredients": "pumpkin puree, evaporated milk, sugar, eggs, cinnamon, yellow cake mix*, walnuts, butter, cream cheese, powdered sugar, cool whip*",
+         "main": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Breakfast",
+     "stations": [
+      {
+       "name": "Hot Breakfast",
+       "items": [
+        {
+         "name": "Crispy Scallion Corn Pancakes",
+         "main": true,
+         "tags": [
+          "V"
+         ],
+         "allergens": [
+          "Milk",
+          "Wheat"
+         ],
+         "ingredients": "All-Purpose Flour, Cornmeal, Baking Powder, Kosher Salt, Gochugaru, Corn, Scallions, Whole Milk, Buttermilk, Butter"
+        },
+        {
+         "name": "Crispy Pork Belly & Corn Pancakes",
+         "main": true,
+         "allergens": [
+          "Milk",
+          "Soy",
+          "Wheat"
+         ],
+         "ingredients": "All-Purpose Flour, Cornmeal, Baking Powder, Kosher Salt, Gochugaru, Pork Belly, Corn, Scallions, Whole Milk, Buttermilk, Butter"
+        }
+       ]
+      },
+      {
+       "name": "Continental Breakfast",
+       "items": [
+        {
+         "name": "Overnight Oats",
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "Rolled Oats, Coconut Milk, Vanilla, Agave, Salt"
+        },
+        {
+         "name": "Chia Pudding",
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "coconut milk, chia seed, agave, salt"
+        },
+        {
+         "name": "Greek Yogurt",
+         "tags": [
+          "V"
+         ],
+         "allergens": [
+          "Milk"
+         ],
+         "ingredients": "Greek Yogurt"
+        },
+        {
+         "name": "Vegan Coconut Yogurt",
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "Plant based Coconut Yogurt"
+        },
+        {
+         "name": "Oats",
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "Oats, water"
+        },
+        {
+         "name": "Seasonal Fruit",
+         "tags": [
+          "VG"
+         ]
+        },
+        {
+         "name": "Hard Boiled Eggs",
+         "tags": [
+          "V"
+         ],
+         "allergens": [
+          "Egg"
+         ],
+         "ingredients": "Egg"
+        },
+        {
+         "name": "Yogurt Cake With Raspberry Icing",
+         "tags": [
+          "V"
+         ],
+         "allergens": [
+          "Egg",
+          "Milk",
+          "Wheat"
+         ],
+         "ingredients": "Yogurt, eggs, rice bran oil, sugar, flour, baking powder, lemon zest, raspberries, powdered sugar, heavy cream, vanilla"
+        }
+       ],
+       "extras": [
+        {
+         "label": "toppings",
+         "items": [
+          "Assorted Toppings",
+          "Assorted Spreads",
+          "Assorted Nuts",
+          "Peanut Butter",
+          "Granola",
+          "Watermelon",
+          "Cream Cheese",
+          "Butter",
+          "Chocolate Chips",
+          "Golden Raisins",
+          "Walnut",
+          "Almonds",
+          "Brown Sugar"
+         ]
+        },
+        {
+         "label": "more",
+         "items": [
+          "Canteloupe",
+          "Pineapple",
+          "HoneyDew",
+          "Blueberries",
+          "Cottage Cheese",
+          "Chia Seed",
+          "Sourdough",
+          "Gluten Free Bread",
+          "Whole Wheat Bread",
+          "Spa Water 1",
+          "Spa Water 2"
+         ]
+        },
+        {
+         "label": "sauces",
+         "items": [
+          "Jam"
+         ]
+        }
+       ]
+      },
+      {
+       "name": "Sweet Spot",
+       "items": [
+        {
+         "name": "6th floor Shortbread Cookies",
+         "tags": [
+          "V"
+         ],
+         "allergens": [
+          "Egg",
+          "Milk",
+          "Wheat"
+         ],
+         "ingredients": "Flour, Butter, Sugar, Eggs, Baking Powder",
+         "main": true
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "meals": []
+  },
+  {
+   "date": "2026-11-27",
+   "meals": []
+  },
+  {
+   "date": "2026-11-30",
+   "meals": [
+    {
+     "name": "Lunch",
+     "stations": [
+      {
+       "name": "Wrap Culture",
+       "items": [
+        {
+         "name": "Cheddar Late",
+         "main": true,
+         "allergens": [
+          "Milk",
+          "Soy",
+          "Wheat"
+         ],
+         "ingredients": "Mixed greens, Romaine, cheddar, Smoked turkey,\nCucumber, Bell pepper, Carrot,\nCroutons, Mama Lil’s Peppers*, \nVegan Ranch"
+        },
+        {
+         "name": "Sesame Crunch",
+         "main": true,
+         "allergens": [
+          "Sesame",
+          "Soy",
+          "Wheat"
+         ],
+         "ingredients": "Romaine, Chow Mein Noodles*, Mandarin Orange*, Tofu, Sesame Ginger Vinaigrette, Smashed Cucumbers"
+        }
+       ],
+       "extras": [
+        {
+         "label": "more",
+         "items": [
+          "Romaine*",
+          "Spring Mix*",
+          "Black Rice",
+          "Boiled Egg",
+          "Mama Lil Pepper*"
+         ]
+        },
+        {
+         "label": "dressings",
+         "items": [
+          "Balsamic Vinaigrette",
+          "Citrus Vinaigrette",
+          "Ginger Sesame Dressing",
+          "Vegan Ranch Dressing"
+         ]
+        },
+        {
+         "label": "bases",
+         "items": [
+          "Flour Tortilla (12\")",
+          "Greens",
+          "Grilled Chicken",
+          "Tofu"
+         ]
+        },
+        {
+         "label": "toppings",
+         "items": [
+          "Assorted Toppings",
+          "Bell Pepper*",
+          "Carrot*",
+          "Cheddar*",
+          "Cheeses",
+          "Crispy Noodles",
+          "Crouton",
+          "Edamame*",
+          "Mandarin Orange*",
+          "Parmesan*",
+          "Pepperoncini*",
+          "Pickled Red Onion",
+          "Swiss Cheese*",
+          "Veggies"
+         ]
+        }
+       ]
+      },
+      {
+       "name": "Pure",
+       "items": [
+        {
+         "name": "Herb Roasted Shrimp",
+         "main": true,
+         "allergens": [
+          "Shellfish (shrimp)"
+         ],
+         "ingredients": "shrimp, olive oil, herbs, lemon juice, salt"
+        },
+        {
+         "name": "Roasted Tofu",
+         "main": true,
+         "tags": [
+          "VG"
+         ],
+         "allergens": [
+          "Soy"
+         ],
+         "ingredients": "Tofu, Olive Oil, Salt Pepper"
+        },
+        {
+         "name": "Barley",
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "barley, water, salt"
+        },
+        {
+         "name": "Vegan Soup",
+         "tags": [
+          "VG"
+         ]
+        },
+        {
+         "name": "Steamed Zucchini",
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "zucchini"
+        }
+       ]
+      },
+      {
+       "name": "Rotating Plate",
+       "items": [
+        {
+         "name": "Cucumber Salad",
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "Cucumber, Dill, white Vinegar, Salt"
+        },
+        {
+         "name": "Boiled Potatoes",
+         "tags": [
+          "VG"
+         ],
+         "allergens": [
+          "Soy"
+         ],
+         "ingredients": "Potato, Dill, Vegan Butter, salt, white pepper"
+        },
+        {
+         "name": "Pickled Beets",
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "Beets, Red Onion, Orange, Caraway, Coriander, Red wine vinegar, Agave, Salt, Chives"
+        },
+        {
+         "name": "Braised Tofu and Mushrooms",
+         "main": true,
+         "tags": [
+          "VG"
+         ],
+         "allergens": [
+          "Soy"
+         ],
+         "ingredients": "Button Mushroom, Tofu, Onion, Cornstarch, Oat Milk, Vegan Butter, Chives, Salt, White Pepper, Vegan Cream Cheese, Nutritional Yeast, Tamari"
+        },
+        {
+         "name": "Swedish Meatballs",
+         "main": true,
+         "allergens": [
+          "Egg",
+          "Milk",
+          "Soy",
+          "Wheat"
+         ],
+         "ingredients": "Ground Pork, Ground Beef, Onion, Egg, Milk, Bread Crumb, Salt, White Pepper, Rice Bran Oil, Parsley, Tamari, Heavy Cream, Chicken Stock"
+        }
+       ]
+      },
+      {
+       "name": "Wok N tandoor",
+       "items": [
+        {
+         "name": "Basmati Rice",
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "basmati rice, salt"
+        },
+        {
+         "name": "Naan*",
+         "tags": [
+          "V"
+         ],
+         "allergens": [
+          "Milk",
+          "Soy",
+          "Wheat"
+         ]
+        },
+        {
+         "name": "Steamed Cauliflower w/ Peas",
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "cauliflower, peas, Cumin, Ginger, Turmeric, Garam Masala, Salt"
+        },
+        {
+         "name": "Chicken Karachi",
+         "main": true,
+         "ingredients": "Chicken Thigh, Rice Bran Oil, Garlic Paste, Ginger Paste, Serrano Chilies, Coriander, Cumin, Salt, Turmeric, Salt, Garam Masala, Roma Tomatoes, Cilantro"
+        },
+        {
+         "name": "Yellow Dal Tadka",
+         "main": true,
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "Yellow Lentils, Onion, Tomato, Garlic, Ginger, Green Chili, Cumin Seeds, Mustard Seeds, Turmeric, Garam Masala, Red Chili Powder, Asafoetida, Curry Leaves, Cilantro, Lemon Juice, Salt, Oil"
+        }
+       ],
+       "extras": [
+        {
+         "label": "toppings",
+         "items": [
+          "Tamarind Chutney"
+         ]
+        }
+       ]
+      },
+      {
+       "name": "Sweet Spot",
+       "items": [
+        {
+         "name": "Fruit"
+        },
+        {
+         "name": "Sweet Eat",
+         "main": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Breakfast",
+     "stations": [
+      {
+       "name": "Hot Breakfast",
+       "items": [
+        {
+         "name": "Crispy Tofu and Egg Burrito",
+         "main": true,
+         "tags": [
+          "V"
+         ],
+         "allergens": [
+          "Egg",
+          "Soy",
+          "Wheat"
+         ],
+         "ingredients": "Egg, tofu, tortilla"
+        },
+        {
+         "name": "Breakfast Burrito with Pork Shwarma",
+         "main": true,
+         "allergens": [
+          "Egg",
+          "Milk",
+          "Soy",
+          "Wheat"
+         ],
+         "ingredients": "Tortilla, Cheddar Cheese, Onion, Bell Pepper, Pork Butt, Rice Bran Oil, Salt, Black Pepper, Paprika, Cumin, Coriander, Garlic Powder, Onion Powder, Turmeric, Cinnamon, Allspice, Cardamom, Cayenne Pepper, Dried Oregano, lemon juice, yogurt, garlic, olive oil, parsley"
+        }
+       ],
+       "extras": [
+        {
+         "label": "sauces",
+         "items": [
+          "Sour Cream"
+         ]
+        }
+       ]
+      },
+      {
+       "name": "Continental Breakfast",
+       "items": [
+        {
+         "name": "Oats",
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "Oats, water"
+        },
+        {
+         "name": "Overnight Oats",
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "Rolled Oats, Coconut Milk, Vanilla, Agave, Salt"
+        },
+        {
+         "name": "Chia Pudding",
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "coconut milk, chia seed, agave, salt"
+        },
+        {
+         "name": "Vegan Coconut Yogurt",
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "Plant based Coconut Yogurt"
+        },
+        {
+         "name": "Greek Yogurt",
+         "tags": [
+          "V"
+         ],
+         "allergens": [
+          "Milk"
+         ],
+         "ingredients": "Greek Yogurt"
+        },
+        {
+         "name": "Hard Boiled Eggs",
+         "tags": [
+          "V"
+         ],
+         "allergens": [
+          "Egg"
+         ],
+         "ingredients": "Egg"
+        },
+        {
+         "name": "Seasonal Fruit",
+         "tags": [
+          "VG"
+         ]
+        },
+        {
+         "name": "Chocolate Cornetto",
+         "tags": [
+          "V"
+         ],
+         "allergens": [
+          "Egg",
+          "Milk",
+          "Wheat"
+         ]
+        },
+        {
+         "name": "Macrina Almond Chocolate Orange Coffee Cake",
+         "allergens": [
+          "Egg",
+          "Milk",
+          "Tree nuts (almond)",
+          "Wheat"
+         ]
+        }
+       ],
+       "extras": [
+        {
+         "label": "more",
+         "items": [
+          "Sourdough",
+          "Chia Seed",
+          "Cottage Cheese",
+          "Blueberries",
+          "Canteloupe",
+          "HoneyDew",
+          "Pineapple",
+          "Gluten Free Bread",
+          "Whole Wheat Bread",
+          "Spa Water 1",
+          "Spa Water 2"
+         ]
+        },
+        {
+         "label": "toppings",
+         "items": [
+          "Almond Butter",
+          "Almonds",
+          "Assorted Nuts",
+          "Assorted Spreads",
+          "Assorted Toppings",
+          "Brown Sugar",
+          "Butter",
+          "Chocolate Chips",
+          "Cream Cheese",
+          "Golden Raisins",
+          "Granola",
+          "Peanut Butter",
+          "Walnut",
+          "Watermelon"
+         ]
+        },
+        {
+         "label": "sauces",
+         "items": [
+          "Jam"
+         ]
+        }
+       ]
+      },
+      {
+       "name": "Sweet Spot",
+       "items": [
+        {
+         "name": "6th floor Shortbread Cookies",
+         "tags": [
+          "V"
+         ],
+         "allergens": [
+          "Egg",
+          "Milk",
+          "Wheat"
+         ],
+         "ingredients": "Flour, Butter, Sugar, Eggs, Baking Powder",
+         "main": true
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-12-01",
+   "meals": [
+    {
+     "name": "Lunch",
+     "stations": [
+      {
+       "name": "Wrap Culture",
+       "items": [
+        {
+         "name": "Cheddar Late",
+         "main": true,
+         "allergens": [
+          "Milk",
+          "Soy",
+          "Wheat"
+         ],
+         "ingredients": "Mixed greens, Romaine, cheddar, Smoked turkey,\nCucumber, Bell pepper, Carrot,\nCroutons, Mama Lil’s Peppers*, \nVegan Ranch"
+        },
+        {
+         "name": "Sesame Crunch",
+         "main": true,
+         "allergens": [
+          "Sesame",
+          "Soy",
+          "Wheat"
+         ],
+         "ingredients": "Romaine, Chow Mein Noodles*, Mandarin Orange*, Tofu, Sesame Ginger Vinaigrette, Smashed Cucumbers"
+        }
+       ],
+       "extras": [
+        {
+         "label": "more",
+         "items": [
+          "Romaine*",
+          "Spring Mix*",
+          "Black Rice",
+          "Boiled Egg",
+          "Mama Lil Pepper*"
+         ]
+        },
+        {
+         "label": "dressings",
+         "items": [
+          "Balsamic Vinaigrette",
+          "Citrus Vinaigrette",
+          "Ginger Sesame Dressing",
+          "Vegan Ranch Dressing"
+         ]
+        },
+        {
+         "label": "bases",
+         "items": [
+          "Flour Tortilla (12\")",
+          "Greens",
+          "Grilled Chicken",
+          "Tofu"
+         ]
+        },
+        {
+         "label": "toppings",
+         "items": [
+          "Assorted Toppings",
+          "Bell Pepper*",
+          "Carrot*",
+          "Cheddar*",
+          "Cheeses",
+          "Crispy Noodles",
+          "Crouton",
+          "Edamame*",
+          "Mandarin Orange*",
+          "Parmesan*",
+          "Pepperoncini*",
+          "Pickled Red Onion",
+          "Swiss Cheese*",
+          "Veggies"
+         ]
+        }
+       ]
+      },
+      {
+       "name": "Pure",
+       "items": [
+        {
+         "name": "Herb Roasted Tofu",
+         "main": true,
+         "tags": [
+          "VG"
+         ],
+         "allergens": [
+          "Soy"
+         ],
+         "ingredients": "tofu, olive oil, herbs, salt, pepper"
+        },
+        {
+         "name": "Grilled Chicken Breast",
+         "main": true,
+         "ingredients": "chicken breast, kosher salt, Olive oil, Pepper"
+        },
+        {
+         "name": "Quinoa Pilaf",
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "Quinoa, salt"
+        },
+        {
+         "name": "Roasted Mushrooms",
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "mushrooms, olive oil, salt"
+        },
+        {
+         "name": "Vegan Soup",
+         "tags": [
+          "VG"
+         ]
+        }
+       ]
+      },
+      {
+       "name": "Rotating Plate",
+       "items": [
+        {
+         "name": "Glazed Carrots",
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "Carrots, Agave, Lemon Juice, Rice Bran Oil, Olive oil, Tarragon, Parsley"
+        },
+        {
+         "name": "Grains Salad",
+         "tags": [
+          "VG"
+         ],
+         "allergens": [
+          "Wheat"
+         ],
+         "ingredients": "Spinach, Red Onion, Sundried  Tomato, Bulgur Wheat, Rosemary, Balsamic, Black Pepper"
+        },
+        {
+         "name": "Mustard & Herb Crusted Spatchcock Roast Chicken",
+         "main": true,
+         "ingredients": "Whole Chicken, garlic, Herbs (Rosemary, Thyme, Savory, Parsley) Dijon Mustard, Evoo, Agave, Salt, Pepper, rice bran oil"
+        },
+        {
+         "name": "Grilled Portabella",
+         "main": true,
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "portabella, garlic, Herbs (Rosemary, Thyme, Savory, Parsley) Dijon Mustard, Evoo, Agave, Salt, Pepper, rice bran oil"
+        }
+       ]
+      },
+      {
+       "name": "Wok N tandoor",
+       "items": [
+        {
+         "name": "Naan*",
+         "tags": [
+          "V"
+         ],
+         "allergens": [
+          "Egg",
+          "Milk",
+          "Soy",
+          "Wheat"
+         ]
+        },
+        {
+         "name": "Thoran Style Salad",
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "black mustard seeds, cumin seeds, onion, garlic, chilli, curry leaves, tumeric, coconut, salt, red cabbage, carrot"
+        },
+        {
+         "name": "Curry",
+         "main": true,
+         "tags": [
+          "V"
+         ],
+         "allergens": [
+          "Milk"
+         ],
+         "ingredients": "cumin powder, coriander powder, salt, black pepper, garam masala, cream, curry powder, tomatoes, kasuri methi"
+        },
+        {
+         "name": "Tilapia",
+         "main": true,
+         "allergens": [
+          "Fish"
+         ],
+         "ingredients": "tilapia, ginger, garlic, salt, black pepper, cilantro, rice bran oil"
+        },
+        {
+         "name": "Basmati Rice",
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "basmati rice, water"
+        },
+        {
+         "name": "Aloo Mutter Mushrooms",
+         "main": true,
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "Ginger, Garlic, Rice Bran Oil, Salt, Black pepper, Coriander, Cardamom, Pea, Button Mushroom, Tomato, Red Chili Powder, Coriander, Turmeric, Raisin, Green Chili"
+        }
+       ],
+       "extras": [
+        {
+         "label": "sauces",
+         "items": [
+          "Cucumber Raita"
+         ]
+        }
+       ]
+      },
+      {
+       "name": "Hot Hands",
+       "items": [
+        {
+         "name": "Chopped Salad",
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "romaine lettuce, raddichio, garbanzo beans, tomato, pickled red onion, pepperoncini peppers, red wine vinegar, garlic, oregano, basil, onion powder, salt, black pepper, olive oil"
+        },
+        {
+         "name": "Onion Rings",
+         "tags": [
+          "V"
+         ],
+         "allergens": [
+          "Milk",
+          "Soy",
+          "Wheat"
+         ],
+         "ingredients": "Onion Rings"
+        },
+        {
+         "name": "French Fries",
+         "tags": [
+          "VG"
+         ]
+        },
+        {
+         "name": "Eggplant Parm Sandwich",
+         "main": true,
+         "tags": [
+          "V"
+         ],
+         "allergens": [
+          "Milk",
+          "Wheat"
+         ],
+         "ingredients": "need"
+        },
+        {
+         "name": "Chicken Parm Sandwich",
+         "main": true
+        }
+       ]
+      },
+      {
+       "name": "Sweet Spot",
+       "items": [
+        {
+         "name": "Fruit"
+        },
+        {
+         "name": "Sweet Eat",
+         "main": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Breakfast",
+     "stations": [
+      {
+       "name": "Hot Breakfast",
+       "items": [
+        {
+         "name": "Huevos Rancheros",
+         "main": true,
+         "allergens": [
+          "Egg",
+          "Milk"
+         ],
+         "ingredients": "Corn tortilla, Ground Beef, Cumin, Onion, Garlic, Rice bRan Oil, Tomato, Paprika, Chili, LIme Juice, Salt, Pepper, Egg, Cotija, cilantro"
+        },
+        {
+         "name": "Huevos Rancheros with Beans",
+         "main": true,
+         "tags": [
+          "V"
+         ],
+         "allergens": [
+          "Egg",
+          "Milk"
+         ],
+         "ingredients": "Corn tortilla, Kidney Beans, Cumin, Onion, Garlic, Rice bRan Oil, Tomato, Paprika, Chili, LIme Juice, Salt, Pepper, Egg, Cotija, cilantro"
+        }
+       ]
+      },
+      {
+       "name": "Continental Breakfast",
+       "items": [
+        {
+         "name": "Oats",
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "Oats, water"
+        },
+        {
+         "name": "Overnight Oats",
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "Rolled Oats, Coconut Milk, Vanilla, Agave, Salt"
+        },
+        {
+         "name": "Chia Pudding",
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "coconut milk, chia seed, agave, salt"
+        },
+        {
+         "name": "Vegan Coconut Yogurt",
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "Plant based Coconut Yogurt"
+        },
+        {
+         "name": "Greek Yogurt",
+         "tags": [
+          "V"
+         ],
+         "allergens": [
+          "Milk"
+         ],
+         "ingredients": "Greek Yogurt"
+        },
+        {
+         "name": "Hard Boiled Eggs",
+         "tags": [
+          "V"
+         ],
+         "allergens": [
+          "Egg"
+         ],
+         "ingredients": "Egg"
+        },
+        {
+         "name": "Seasonal Fruit",
+         "tags": [
+          "VG"
+         ]
+        },
+        {
+         "name": "Chocolate Cornetto",
+         "tags": [
+          "V"
+         ],
+         "allergens": [
+          "Egg",
+          "Milk",
+          "Wheat"
+         ]
+        },
+        {
+         "name": "Macrina Almond Chocolate Orange Coffee Cake",
+         "allergens": [
+          "Egg",
+          "Milk",
+          "Tree nuts (almond)",
+          "Wheat"
+         ]
+        }
+       ],
+       "extras": [
+        {
+         "label": "more",
+         "items": [
+          "Sourdough",
+          "Chia Seed",
+          "Cottage Cheese",
+          "Blueberries",
+          "Canteloupe",
+          "HoneyDew",
+          "Pineapple",
+          "Gluten Free Bread",
+          "Whole Wheat Bread",
+          "Spa Water 1",
+          "Spa Water 2"
+         ]
+        },
+        {
+         "label": "toppings",
+         "items": [
+          "Almond Butter",
+          "Almonds",
+          "Assorted Nuts",
+          "Assorted Spreads",
+          "Assorted Toppings",
+          "Brown Sugar",
+          "Butter",
+          "Chocolate Chips",
+          "Cream Cheese",
+          "Golden Raisins",
+          "Granola",
+          "Peanut Butter",
+          "Walnut",
+          "Watermelon"
+         ]
+        },
+        {
+         "label": "sauces",
+         "items": [
+          "Jam"
+         ]
+        }
+       ]
+      },
+      {
+       "name": "Sweet Spot",
+       "items": [
+        {
+         "name": "6th floor Shortbread Cookies",
+         "tags": [
+          "V"
+         ],
+         "allergens": [
+          "Egg",
+          "Milk",
+          "Wheat"
+         ],
+         "ingredients": "Flour, Butter, Sugar, Eggs, Baking Powder",
+         "main": true
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-12-02",
+   "meals": [
+    {
+     "name": "Lunch",
+     "stations": [
+      {
+       "name": "Wrap Culture",
+       "items": [
+        {
+         "name": "Cheddar Late",
+         "main": true,
+         "allergens": [
+          "Milk",
+          "Soy",
+          "Wheat"
+         ],
+         "ingredients": "Mixed greens, Romaine, cheddar, Smoked turkey,\nCucumber, Bell pepper, Carrot,\nCroutons, Mama Lil’s Peppers*, \nVegan Ranch"
+        },
+        {
+         "name": "Sesame Crunch",
+         "main": true,
+         "allergens": [
+          "Sesame",
+          "Soy",
+          "Wheat"
+         ],
+         "ingredients": "Romaine, Chow Mein Noodles*, Mandarin Orange*, Tofu, Sesame Ginger Vinaigrette, Smashed Cucumbers"
+        }
+       ],
+       "extras": [
+        {
+         "label": "more",
+         "items": [
+          "Romaine*",
+          "Spring Mix*",
+          "Black Rice",
+          "Boiled Egg",
+          "Mama Lil Pepper*"
+         ]
+        },
+        {
+         "label": "dressings",
+         "items": [
+          "Balsamic Vinaigrette",
+          "Citrus Vinaigrette",
+          "Ginger Sesame Dressing",
+          "Vegan Ranch Dressing"
+         ]
+        },
+        {
+         "label": "bases",
+         "items": [
+          "Flour Tortilla (12\")",
+          "Greens",
+          "Grilled Chicken",
+          "Tofu"
+         ]
+        },
+        {
+         "label": "toppings",
+         "items": [
+          "Assorted Toppings",
+          "Bell Pepper*",
+          "Carrot*",
+          "Cheddar*",
+          "Cheeses",
+          "Crispy Noodles",
+          "Crouton",
+          "Edamame*",
+          "Mandarin Orange*",
+          "Parmesan*",
+          "Pepperoncini*",
+          "Pickled Red Onion",
+          "Swiss Cheese*",
+          "Veggies"
+         ]
+        }
+       ]
+      },
+      {
+       "name": "Pure",
+       "items": [
+        {
+         "name": "Roasted Sweet Potato",
+         "tags": [
+          "V"
+         ],
+         "allergens": [
+          "Milk"
+         ],
+         "ingredients": "Olive oil, Sweet Potato, Salt"
+        },
+        {
+         "name": "Broccoli",
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "Broccoli"
+        },
+        {
+         "name": "Miso Roasted Chicken",
+         "main": true,
+         "allergens": [
+          "Soy"
+         ],
+         "ingredients": "Chicken, Agave, Miso, Mirin, Sake"
+        },
+        {
+         "name": "Sesame Roasted Tofu",
+         "main": true,
+         "tags": [
+          "VG"
+         ],
+         "allergens": [
+          "Sesame",
+          "Soy"
+         ],
+         "ingredients": "tofu, Sesame seeds, Oat Milk, Nutritional Yeast, Cornstarch, Salt, White pepper"
+        },
+        {
+         "name": "Vegan Soup",
+         "tags": [
+          "VG"
+         ]
+        }
+       ]
+      },
+      {
+       "name": "Rotating Plate",
+       "items": [
+        {
+         "name": "Tomato, Cucumber and Herb Salad",
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "Roma Tomato, Cherry Tomato, Cucumber, Red Onion, Parsley, Cilantro, Chive, Red Wine Vinegar, Olive oil, Coriander, Salt, Pepper"
+        },
+        {
+         "name": "Portuguese Roasted Potato",
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "Potato, Smoked Paprika, Olive oil, Garlic, Salt, Pepper"
+        },
+        {
+         "name": "Portugese Pork and Clam Stew",
+         "main": true,
+         "allergens": [
+          "Shellfish (clam)"
+         ],
+         "ingredients": "Pork Butt, Clams, Onion, garlic, Tomato, Paprika, Rice bran Oil, Salt, Pepper, Clam Juice, Herbs"
+        },
+        {
+         "name": "White Bean, Kale & Tomato Stew",
+         "main": true,
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "White beans, Onion, Diced Tomato, Garlic, Kale, Lemon Juice, Parsley, Salt, Pepper, Olive oil"
+        }
+       ],
+       "extras": [
+        {
+         "label": "sauces",
+         "items": [
+          "Piri Piri Sauce"
+         ]
+        }
+       ]
+      },
+      {
+       "name": "Wok N tandoor",
+       "items": [
+        {
+         "name": "Garlic Naan",
+         "tags": [
+          "V"
+         ],
+         "allergens": [
+          "Egg",
+          "Milk",
+          "Soy",
+          "Wheat"
+         ],
+         "ingredients": "garlic, butter, salt, naan"
+        },
+        {
+         "name": "Stir Fried Rice",
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "need"
+        },
+        {
+         "name": "Halal Tandoori Chicken",
+         "main": true,
+         "allergens": [
+          "Milk"
+         ],
+         "ingredients": "Halal Chicken Thigh, Plain Yogurt, Garlic, Ginger, Garam Masala, rice bran oil, butter, Salt, Red Gel Food Coloring, Lemon Juice, turmeric, Red Kashmiri Chili, Coriander, Cumin, Black Pepper, nutmeg"
+        },
+        {
+         "name": "Dal Makani",
+         "main": true,
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "Black Lentils, Kidney Beans, Coconut Oil, Onions, Garlic, Ginger, Tomato Paste, Asafoetida, Turmeric, Garam Masala, Coconut Cream, Cilantro, Roma Tomatoes, Salt, Cilantro, coconut milk"
+        },
+        {
+         "name": "Palak Paneer",
+         "main": true,
+         "tags": [
+          "V"
+         ],
+         "allergens": [
+          "Milk"
+         ],
+         "ingredients": "Paneer, Spinach, Rice Bran Oil, Onion, Tomatoes, Ginger, Garlic, Salt, Garam Masala, Kasuri Methi, Water, Heavy Cream, cumin"
+        }
+       ],
+       "extras": [
+        {
+         "label": "sauces",
+         "items": [
+          "Mint Chutney"
+         ]
+        }
+       ]
+      },
+      {
+       "name": "Hot Hands",
+       "items": [
+        {
+         "name": "Chopped Salad",
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "Romaine lettuce, Red Cabbage, Garbanzo Bean, Tomato, Cucumber, Pickled Red Onion, Pickling Spice, Pepperoncini Peppers, Red Wine Vinegar, Oregano, Basil, Onion Powder, Salt, Black Pepper, Olive Oil, Rice Bran Oil, Basil, jalapeno, garlic powder, pickled cauliflower, carrot, garlic, cucumber, celery"
+        },
+        {
+         "name": "BLT Pizza",
+         "main": true,
+         "allergens": [
+          "Milk",
+          "Wheat"
+         ],
+         "ingredients": "Pizza dough (Flour, Barley Malt, Yeast, Olive Oil, Salt, Edison Bread Flour),"
+        },
+        {
+         "name": "Mushroom and Fontina Cheese Pizza",
+         "main": true,
+         "tags": [
+          "V"
+         ],
+         "allergens": [
+          "Milk",
+          "Wheat"
+         ],
+         "ingredients": "Pizza Dough (Flour, Barley Malt, Yeast, Olive Oil, Salt, Edison Bread Flour),"
+        },
+        {
+         "name": "Pepperoni Pizza",
+         "main": true,
+         "tags": [
+          "V"
+         ],
+         "allergens": [
+          "Milk",
+          "Wheat"
+         ],
+         "ingredients": "Pizza Dough (Flour, Barley Malt, Yeast, Olive Oil, Salt, Edison Bread Flour) Tomato Sauce (Crushed Tomato, Olive Oil, Onion, Garlic, Basil, Oregano, Salt, Pepper) Mozzarella Cheese"
+        }
+       ]
+      },
+      {
+       "name": "Sweet Spot",
+       "items": [
+        {
+         "name": "Fruit"
+        },
+        {
+         "name": "Sweet Eat",
+         "main": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Breakfast",
+     "stations": [
+      {
+       "name": "Hot Breakfast",
+       "items": [
+        {
+         "name": "Strata",
+         "main": true,
+         "tags": [
+          "V"
+         ],
+         "allergens": [
+          "Egg",
+          "Milk",
+          "Wheat"
+         ],
+         "ingredients": "Bread, Mushrooms, Cheddar Cheese, Spinach, Sundried Tomato, Heavy Cream, Butter, Milk, Parsley"
+        }
+       ],
+       "extras": [
+        {
+         "label": "sauces",
+         "items": [
+          "Mornay Sauce"
+         ]
+        }
+       ]
+      },
+      {
+       "name": "Continental Breakfast",
+       "items": [
+        {
+         "name": "Oats",
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "Oats, water"
+        },
+        {
+         "name": "Overnight Oats",
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "Rolled Oats, Coconut Milk, Vanilla, Agave, Salt"
+        },
+        {
+         "name": "Chia Pudding",
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "coconut milk, chia seed, agave, salt"
+        },
+        {
+         "name": "Vegan Coconut Yogurt",
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "Plant based Coconut Yogurt"
+        },
+        {
+         "name": "Greek Yogurt",
+         "tags": [
+          "V"
+         ],
+         "allergens": [
+          "Milk"
+         ],
+         "ingredients": "Greek Yogurt"
+        },
+        {
+         "name": "Hard Boiled Eggs",
+         "tags": [
+          "V"
+         ],
+         "allergens": [
+          "Egg"
+         ],
+         "ingredients": "Egg"
+        },
+        {
+         "name": "Seasonal Fruit",
+         "tags": [
+          "VG"
+         ]
+        },
+        {
+         "name": "Chocolate Cornetto",
+         "tags": [
+          "V"
+         ],
+         "allergens": [
+          "Egg",
+          "Milk",
+          "Wheat"
+         ]
+        },
+        {
+         "name": "Macrina Almond Chocolate Orange Coffee Cake",
+         "allergens": [
+          "Egg",
+          "Milk",
+          "Tree nuts (almond)",
+          "Wheat"
+         ]
+        }
+       ],
+       "extras": [
+        {
+         "label": "more",
+         "items": [
+          "Sourdough",
+          "Chia Seed",
+          "Cottage Cheese",
+          "Blueberries",
+          "Canteloupe",
+          "HoneyDew",
+          "Pineapple",
+          "Gluten Free Bread",
+          "Whole Wheat Bread",
+          "Spa Water 1",
+          "Spa Water 2"
+         ]
+        },
+        {
+         "label": "toppings",
+         "items": [
+          "Almond Butter",
+          "Almonds",
+          "Assorted Nuts",
+          "Assorted Spreads",
+          "Assorted Toppings",
+          "Brown Sugar",
+          "Butter",
+          "Chocolate Chips",
+          "Cream Cheese",
+          "Golden Raisins",
+          "Granola",
+          "Peanut Butter",
+          "Walnut",
+          "Watermelon"
+         ]
+        },
+        {
+         "label": "sauces",
+         "items": [
+          "Jam"
+         ]
+        }
+       ]
+      },
+      {
+       "name": "Sweet Spot",
+       "items": [
+        {
+         "name": "6th floor Shortbread Cookies",
+         "tags": [
+          "V"
+         ],
+         "allergens": [
+          "Egg",
+          "Milk",
+          "Wheat"
+         ],
+         "ingredients": "Flour, Butter, Sugar, Eggs, Baking Powder",
+         "main": true
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-12-03",
+   "meals": [
+    {
+     "name": "Lunch",
+     "stations": [
+      {
+       "name": "Wrap Culture",
+       "items": [
+        {
+         "name": "Cheddar Late",
+         "main": true,
+         "allergens": [
+          "Milk",
+          "Soy",
+          "Wheat"
+         ],
+         "ingredients": "Mixed greens, Romaine, cheddar, Smoked turkey,\nCucumber, Bell pepper, Carrot,\nCroutons, Mama Lil’s Peppers*, \nVegan Ranch"
+        },
+        {
+         "name": "Sesame Crunch",
+         "main": true,
+         "allergens": [
+          "Sesame",
+          "Soy",
+          "Wheat"
+         ],
+         "ingredients": "Romaine, Chow Mein Noodles*, Mandarin Orange*, Tofu, Sesame Ginger Vinaigrette, Smashed Cucumbers"
+        }
+       ],
+       "extras": [
+        {
+         "label": "more",
+         "items": [
+          "Romaine*",
+          "Spring Mix*",
+          "Black Rice",
+          "Boiled Egg",
+          "Mama Lil Pepper*"
+         ]
+        },
+        {
+         "label": "dressings",
+         "items": [
+          "Balsamic Vinaigrette",
+          "Citrus Vinaigrette",
+          "Ginger Sesame Dressing",
+          "Vegan Ranch Dressing"
+         ]
+        },
+        {
+         "label": "bases",
+         "items": [
+          "Flour Tortilla (12\")",
+          "Greens",
+          "Grilled Chicken",
+          "Tofu"
+         ]
+        },
+        {
+         "label": "toppings",
+         "items": [
+          "Assorted Toppings",
+          "Bell Pepper*",
+          "Carrot*",
+          "Cheddar*",
+          "Cheeses",
+          "Crispy Noodles",
+          "Crouton",
+          "Edamame*",
+          "Mandarin Orange*",
+          "Parmesan*",
+          "Pepperoncini*",
+          "Pickled Red Onion",
+          "Swiss Cheese*",
+          "Veggies"
+         ]
+        }
+       ]
+      },
+      {
+       "name": "Pure",
+       "items": [
+        {
+         "name": "Pan Roasted Herb Chicken",
+         "main": true,
+         "ingredients": "Chicken, olive oil, salt, pepper, herbs"
+        },
+        {
+         "name": "Steamed Cabbage",
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "need"
+        },
+        {
+         "name": "Lentil and Chickpeas",
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "NEED"
+        },
+        {
+         "name": "Vegan Soup",
+         "tags": [
+          "VG"
+         ]
+        },
+        {
+         "name": "Steamed Zucchini",
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "zucchini"
+        }
+       ]
+      },
+      {
+       "name": "Rotating Plate",
+       "items": [
+        {
+         "name": "Coconut Rice with Pigeon Peas",
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "rice, coconut, Sugar, Salt, Water, agave, Black Eyed Peas"
+        },
+        {
+         "name": "Roasted Plantains",
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "Plantain, Sugar, Cinnamon, Harissa, Salt, Rice bran Oil, Allspice"
+        },
+        {
+         "name": "Roasted Squash with Lime",
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "Zucchini, Summer Squash, Lime Juice, Garlic, Ginger, Agave, Sunflower Seeds"
+        },
+        {
+         "name": "Caribbean Chicken Mojo",
+         "main": true,
+         "ingredients": "Chicken Thighs, Onion, Garlic, Habanero chili, Cumin, Coriander, Cilantro, Lime juice, Orange Juice, Lemon Juice, Garlic, Parsley, Guajillo Chili, Rice Bran Oil, Salt, Pepper,"
+        },
+        {
+         "name": "Mojo Roasted Tofu",
+         "main": true,
+         "tags": [
+          "VG"
+         ],
+         "allergens": [
+          "Soy"
+         ],
+         "ingredients": "Tofu, Onion, Garlic, Habanero chili, Cumin, Coriander, Cilantro, Lime juice, Orange Juice, Lemon Juice, Garlic, Parsley, Guajillo Chili, Rice Bran Oil, Salt, Pepper,"
+        }
+       ]
+      },
+      {
+       "name": "Wok N tandoor",
+       "items": [
+        {
+         "name": "Aloo Gobi",
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "Potatoes, cauliflower, onion, tomatoes, garlic, ginger, cumin seeds, turmeric, coriander, garam masala, chili powder, salt, cilantro, vegetable oil, lemon juice"
+        },
+        {
+         "name": "Saffron Rice with Peas",
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "Basmati Rice, Onions, Saffron, Salt, Peas, Lemon Juice."
+        },
+        {
+         "name": "Lamb Kadai",
+         "main": true,
+         "ingredients": "Lamb, Onion, Roma Tomato, Red Bell Pepper, Green Bell Pepper, Garlic, Ginger, Green Chili, Cilantro, Cumin, Coriander, Garam Masala, Turmeric, Kashmiri Chili Powder, Fenugreek, Salt, Black Pepper, Oil, Lemon Juice, Diced Tomato"
+        },
+        {
+         "name": "Yellow Dal Tadka",
+         "main": true,
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "Yellow Lentils, Onion, Tomato, Garlic, Ginger, Green Chili, Cumin Seeds, Mustard Seeds, Turmeric, Garam Masala, Red Chili Powder, Asafoetida, Curry Leaves, Cilantro, Lemon Juice, Salt, Oil, Cream"
+        }
+       ],
+       "extras": [
+        {
+         "label": "sauces",
+         "items": [
+          "Mango Chutney"
+         ]
+        }
+       ]
+      },
+      {
+       "name": "Hot Hands",
+       "items": [
+        {
+         "name": "Chopped Salad",
+         "ingredients": "romaine lettuce, raddichio, garbanzo beans, tomato, pickled red onion, pepperoncini peppers, red wine vinegar, garlic, oregano, basil, onion powder, salt, black pepper, olive oil",
+         "main": true
+        },
+        {
+         "name": "Sesame Korean Gochujang Glazed Pork Sandwich",
+         "allergens": [
+          "Sesame",
+          "Soy",
+          "Wheat"
+         ],
+         "ingredients": "Pork Butt, Gochujang, Garlic, Ginger, Tomato, Brown Sugar, Ketchup, Mirin, Gochugaru, Tamari, Coriander, Salt, Pepper, Rice Bran Oil, Cucumber, Scallion, Cabbage, Vegan Mayo, Sesame seeds, Rice wine vinegar, Brioche roll (Flour, yeast, salt, Olive oil, Sugar, Water)"
+        },
+        {
+         "name": "Tofu and Grilled Pineapple Sandwich",
+         "allergens": [
+          "Sesame",
+          "Soy",
+          "Wheat"
+         ],
+         "ingredients": "Tofu, Gochujang, Garlic, Ginger, Tomato, Brown Sugar, Kertchup, Gochugaru, Tamari, Coriander, Pineapple Juice, Mirin, Salt, Pepper, Rice Bran Oil, Cucumber, Scallion, Cabbage, Vegan Mayo, Sesame seeds, Rice wine vinegar, Focaccia Bread (Flour, yeast, salt, Olive oil, Sugar, Water)"
+        }
+       ]
+      },
+      {
+       "name": "Sweet Spot",
+       "items": [
+        {
+         "name": "Fruit"
+        },
+        {
+         "name": "Sweet Eat",
+         "main": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Breakfast",
+     "stations": [
+      {
+       "name": "Hot Breakfast",
+       "items": [
+        {
+         "name": "Spanish Tortilla & Ham Breakfast Torta",
+         "main": true,
+         "allergens": [
+          "Egg",
+          "Wheat"
+         ],
+         "ingredients": "Hoagie Roll, Potato, Onion, Paprika, Liquid Egg, Olive Oil, Parsley, Garlic, Mayonnaise, Tomato, Salt, Pepper"
+        },
+        {
+         "name": "Spanish Tortilla Breakfast Torta",
+         "main": true,
+         "allergens": [
+          "Egg",
+          "Wheat"
+         ],
+         "ingredients": "Hoagie Roll, Potato, Onion, Paprika, Liquid Egg, Olive Oil, Parsley, Prosciutto, Garlic, Mayonnaise, Tomato, Salt, Pepper"
+        }
+       ]
+      },
+      {
+       "name": "Continental Breakfast",
+       "items": [
+        {
+         "name": "Oats",
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "Oats, water"
+        },
+        {
+         "name": "Overnight Oats",
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "Rolled Oats, Coconut Milk, Vanilla, Agave, Salt"
+        },
+        {
+         "name": "Chia Pudding",
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "coconut milk, chia seed, agave, salt"
+        },
+        {
+         "name": "Vegan Coconut Yogurt",
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "Plant based Coconut Yogurt"
+        },
+        {
+         "name": "Greek Yogurt",
+         "tags": [
+          "V"
+         ],
+         "allergens": [
+          "Milk"
+         ],
+         "ingredients": "Greek Yogurt"
+        },
+        {
+         "name": "Hard Boiled Eggs",
+         "tags": [
+          "V"
+         ],
+         "allergens": [
+          "Egg"
+         ],
+         "ingredients": "Egg"
+        },
+        {
+         "name": "Seasonal Fruit",
+         "tags": [
+          "VG"
+         ]
+        },
+        {
+         "name": "Chocolate Cornetto",
+         "tags": [
+          "V"
+         ],
+         "allergens": [
+          "Egg",
+          "Milk",
+          "Wheat"
+         ]
+        },
+        {
+         "name": "Macrina Almond Chocolate Orange Coffee Cake",
+         "allergens": [
+          "Egg",
+          "Milk",
+          "Tree nuts (almond)",
+          "Wheat"
+         ]
+        }
+       ],
+       "extras": [
+        {
+         "label": "more",
+         "items": [
+          "Sourdough",
+          "Chia Seed",
+          "Cottage Cheese",
+          "Blueberries",
+          "Canteloupe",
+          "HoneyDew",
+          "Pineapple",
+          "Gluten Free Bread",
+          "Whole Wheat Bread",
+          "Spa Water 1",
+          "Spa Water 2"
+         ]
+        },
+        {
+         "label": "toppings",
+         "items": [
+          "Almond Butter",
+          "Almonds",
+          "Assorted Nuts",
+          "Assorted Spreads",
+          "Assorted Toppings",
+          "Brown Sugar",
+          "Butter",
+          "Chocolate Chips",
+          "Cream Cheese",
+          "Golden Raisins",
+          "Granola",
+          "Peanut Butter",
+          "Walnut",
+          "Watermelon"
+         ]
+        },
+        {
+         "label": "sauces",
+         "items": [
+          "Jam"
+         ]
+        }
+       ]
+      },
+      {
+       "name": "Sweet Spot",
+       "items": [
+        {
+         "name": "6th floor Shortbread Cookies",
+         "tags": [
+          "V"
+         ],
+         "allergens": [
+          "Egg",
+          "Milk",
+          "Wheat"
+         ],
+         "ingredients": "Flour, Butter, Sugar, Eggs, Baking Powder",
+         "main": true
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-12-04",
+   "meals": [
+    {
+     "name": "Lunch",
+     "stations": [
+      {
+       "name": "Wrap Culture",
+       "items": [
+        {
+         "name": "Cheddar Late",
+         "main": true,
+         "allergens": [
+          "Milk",
+          "Soy",
+          "Wheat"
+         ],
+         "ingredients": "Mixed greens, Romaine, cheddar, Smoked turkey,\nCucumber, Bell pepper, Carrot,\nCroutons, Mama Lil’s Peppers*, \nVegan Ranch"
+        },
+        {
+         "name": "Sesame Crunch",
+         "main": true,
+         "allergens": [
+          "Sesame",
+          "Soy",
+          "Wheat"
+         ],
+         "ingredients": "Romaine, Chow Mein Noodles*, Mandarin Orange*, Tofu, Sesame Ginger Vinaigrette, Smashed Cucumbers"
+        }
+       ],
+       "extras": [
+        {
+         "label": "more",
+         "items": [
+          "Romaine*",
+          "Spring Mix*",
+          "Black Rice",
+          "Boiled Egg",
+          "Mama Lil Pepper*"
+         ]
+        },
+        {
+         "label": "dressings",
+         "items": [
+          "Balsamic Vinaigrette",
+          "Citrus Vinaigrette",
+          "Ginger Sesame Dressing",
+          "Vegan Ranch Dressing"
+         ]
+        },
+        {
+         "label": "bases",
+         "items": [
+          "Flour Tortilla (12\")",
+          "Greens",
+          "Grilled Chicken",
+          "Tofu"
+         ]
+        },
+        {
+         "label": "toppings",
+         "items": [
+          "Assorted Toppings",
+          "Bell Pepper*",
+          "Carrot*",
+          "Cheddar*",
+          "Cheeses",
+          "Crispy Noodles",
+          "Crouton",
+          "Edamame*",
+          "Mandarin Orange*",
+          "Parmesan*",
+          "Pepperoncini*",
+          "Pickled Red Onion",
+          "Swiss Cheese*",
+          "Veggies"
+         ]
+        }
+       ]
+      },
+      {
+       "name": "Pure",
+       "items": [
+        {
+         "name": "Pan Seared Chicken with Pomegranate and Zaatar",
+         "main": true,
+         "ingredients": "chicken, zaatar, pomegranate, salt, pepper, olive oil"
+        },
+        {
+         "name": "Charred Glazed Eggplant",
+         "main": true,
+         "tags": [
+          "VG"
+         ],
+         "allergens": [
+          "Sesame",
+          "Soy"
+         ],
+         "ingredients": "Eggplant, dry rub (brown sugar, garlic powder, salt, white pepper, paprika, five spice, ground ginger), glaze (sesame oil, garlic, ginger, sugar, tamari, rice vinegar, honey, red pepper flakes), green onion"
+        },
+        {
+         "name": "Brown Rice",
+         "tags": [
+          "VG"
+         ]
+        },
+        {
+         "name": "Vegan Soup",
+         "tags": [
+          "VG"
+         ]
+        },
+        {
+         "name": "Steamed Carrot",
+         "tags": [
+          "VG"
+         ]
+        }
+       ]
+      },
+      {
+       "name": "Rotating Plate",
+       "items": [
+        {
+         "name": "Jambalaya with Chicken",
+         "main": true,
+         "ingredients": "Chicken, Onion, Pepper, Celery, Tomato, Cajun Seasoning, Long Grain Rice, parsley, Chili pepper, Paprika, Lemon Juice, Tomato Paste"
+        },
+        {
+         "name": "Jambalaya with Eggplant & Mushroom",
+         "main": true,
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "Eggplant, Mushroom, Onion, Pepper, Celery, Tomato, Cajun Seasoning, Long Grain Rice"
+        },
+        {
+         "name": "Maque Choux",
+         "ingredients": "Corn, Peppers, Onion, Oat Milk, Cajun Spice, Cornstarch, Salt, Pepper, Rice Bran Oil"
+        }
+       ],
+       "extras": [
+        {
+         "label": "toppings",
+         "items": [
+          "Smokey Black Eyed Peas"
+         ]
+        }
+       ]
+      },
+      {
+       "name": "Sweet Spot",
+       "items": [
+        {
+         "name": "Fruit"
+        },
+        {
+         "name": "Sweet Eat",
+         "main": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Breakfast",
+     "stations": [
+      {
+       "name": "Hot Breakfast",
+       "items": [
+        {
+         "name": "Scrambled Egg Bowl",
+         "main": true,
+         "allergens": [
+          "Egg",
+          "Milk"
+         ],
+         "ingredients": "Liquid Egg, Ground Chicken, Tomato, Spinach, Pepper, Mushroom, Onion, Maple syrup, Sage, allspice, rosemary, parsley, Rice Bran Oil, Salt, Pepper, cheddar cheese"
+        },
+        {
+         "name": "Scrambled Tofu Bowl",
+         "main": true,
+         "allergens": [
+          "Soy"
+         ],
+         "ingredients": "Tofu, Rice Bran Oil, Salt, Pepper, Paprika. Tomato, Spinach, Pepper, Mushroom, Onion, Maple syrup, Sage, allspice, rosemary, parsley, Rice Bran Oil, Salt, Pepper,  cheddar cheese?"
+        }
+       ]
+      },
+      {
+       "name": "Continental Breakfast",
+       "items": [
+        {
+         "name": "Oats",
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "Oats, water"
+        },
+        {
+         "name": "Overnight Oats",
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "Rolled Oats, Coconut Milk, Vanilla, Agave, Salt"
+        },
+        {
+         "name": "Chia Pudding",
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "coconut milk, chia seed, agave, salt"
+        },
+        {
+         "name": "Vegan Coconut Yogurt",
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "Plant based Coconut Yogurt"
+        },
+        {
+         "name": "Greek Yogurt",
+         "tags": [
+          "V"
+         ],
+         "allergens": [
+          "Milk"
+         ],
+         "ingredients": "Greek Yogurt"
+        },
+        {
+         "name": "Hard Boiled Eggs",
+         "tags": [
+          "V"
+         ],
+         "allergens": [
+          "Egg"
+         ],
+         "ingredients": "Egg"
+        },
+        {
+         "name": "Seasonal Fruit",
+         "tags": [
+          "VG"
+         ]
+        },
+        {
+         "name": "Chocolate Cornetto",
+         "tags": [
+          "V"
+         ],
+         "allergens": [
+          "Egg",
+          "Milk",
+          "Wheat"
+         ]
+        },
+        {
+         "name": "Macrina Almond Chocolate Orange Coffee Cake",
+         "allergens": [
+          "Egg",
+          "Milk",
+          "Tree nuts (almond)",
+          "Wheat"
+         ]
+        }
+       ],
+       "extras": [
+        {
+         "label": "more",
+         "items": [
+          "Sourdough",
+          "Chia Seed",
+          "Cottage Cheese",
+          "Blueberries",
+          "Canteloupe",
+          "HoneyDew",
+          "Pineapple",
+          "Gluten Free Bread",
+          "Whole Wheat Bread",
+          "Spa Water 1",
+          "Spa Water 2"
+         ]
+        },
+        {
+         "label": "toppings",
+         "items": [
+          "Almond Butter",
+          "Almonds",
+          "Assorted Nuts",
+          "Assorted Spreads",
+          "Assorted Toppings",
+          "Brown Sugar",
+          "Butter",
+          "Chocolate Chips",
+          "Cream Cheese",
+          "Golden Raisins",
+          "Granola",
+          "Peanut Butter",
+          "Walnut",
+          "Watermelon"
+         ]
+        },
+        {
+         "label": "sauces",
+         "items": [
+          "Jam"
+         ]
+        }
+       ]
+      },
+      {
+       "name": "Sweet Spot",
+       "items": [
+        {
+         "name": "6th floor Shortbread Cookies",
+         "tags": [
+          "V"
+         ],
+         "allergens": [
+          "Egg",
+          "Milk",
+          "Wheat"
+         ],
+         "ingredients": "Flour, Butter, Sugar, Eggs, Baking Powder",
+         "main": true
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
