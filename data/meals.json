@@ -1,6 +1,6 @@
 {
  "location": "Bellevue",
- "updated": "2026-11-24T23:26:27+00:00",
+ "updated": "2026-11-25T23:00:25+00:00",
  "days": [
   {
    "date": "2026-11-23",
@@ -949,25 +949,14 @@
        "name": "Wrap Culture",
        "items": [
         {
-         "name": "Strawberry Chicken Salad",
+         "name": "Pineapple Chicken Salad",
          "main": true,
          "allergens": [
           "Milk",
           "Soy",
           "Wheat"
          ],
-         "ingredients": "Mixed Greens, Grilled Chicken, Edamame, Strawberry, Feta, Crouton, Cucumber, Balsamic Dressing."
-        },
-        {
-         "name": "White Bean Salad",
-         "main": true,
-         "tags": [
-          "VG"
-         ],
-         "allergens": [
-          "Wheat"
-         ],
-         "ingredients": "white beans, herb oil, salt, pepper"
+         "ingredients": "Mixed Greens, Grilled Chicken, Edamame, Pineapple, Swiss Cheese, Crouton, Cucumber, Balsamic Dressing."
         },
         {
          "name": "Caesar Salad",
@@ -976,6 +965,7 @@
           "Egg",
           "Fish",
           "Milk",
+          "Soy",
           "Wheat"
          ],
          "ingredients": "romaine, parmesan, bacon, chicken, croutons, Caesar dressing (mayonnaise*, lemon juice*, garlic, anchovy paste*, vinegar, parmesan cheese, *sour cream*, black pepper, salt)"
@@ -983,47 +973,55 @@
        ],
        "extras": [
         {
-         "label": "dressings",
+         "label": "bases",
          "items": [
-          "Green Goddess Dressing",
-          "Vegan Ranch Dressing",
-          "Caesar Dressing",
-          "Balsamic Dressing",
-          "French Vinaigrette"
+          "Flour Tortilla",
+          "Romaine or Spring Mix",
+          "Spring Mix",
+          "Quinoa",
+          "Boiled Egg"
+         ]
+        },
+        {
+         "label": "more",
+         "items": [
+          "White Bean Salad",
+          "Smoked Turkey"
          ]
         },
         {
          "label": "toppings",
          "items": [
-          "Parmesan*",
-          "Pickled Red Onion",
-          "Cheddar*",
-          "Assorted Toppings",
-          "Edamame*",
-          "Herb Roasted Tofu",
-          "Cucumber*",
-          "Cheeses",
+          "Assorted Veggies",
+          "Cucumber",
+          "Carrots",
+          "Bell Pepper",
+          "Black Olives",
+          "Edamame",
+          "Tomatoes",
+          "Strawberry",
           "Grilled Chicken",
-          "Salami*",
-          "Feta*",
-          "Strawberry*",
+          "Herb Roasted Tofu",
+          "Assorted Toppings",
           "Crispy Onion",
-          "Veggies",
-          "Pepperoncini*",
-          "Tomatoes*",
-          "Bell Pepper*",
-          "Olives*",
-          "Mama Lil's Pepper*"
+          "Assorted Cheeses",
+          "Parmesan",
+          "Cheddar",
+          "Swiss Cheese",
+          "Mama Lil's Pepper",
+          "Toasted Pepitas",
+          "Pickled Red Onion",
+          "Pepperoncini"
          ]
         },
         {
-         "label": "bases",
+         "label": "dressings",
          "items": [
-          "Romaine*",
-          "Spring Mix*",
-          "Boiled Egg",
-          "Quinoa",
-          "Flour Tortilla*"
+          "Balsamic Dressing",
+          "Vegan Ranch Dressing",
+          "Caesar Dressing",
+          "Green Goddess Dressing",
+          "French Vinaigrette"
          ]
         }
        ]
@@ -1032,14 +1030,9 @@
        "name": "Pure",
        "items": [
         {
-         "name": "Sweet Potato and Edamame Salad",
-         "tags": [
-          "VG"
-         ],
-         "allergens": [
-          "Soy"
-         ],
-         "ingredients": "Sweet Potato, Edamame, Lemon Juice, Olive oil, salt"
+         "name": "Smoked Chicken",
+         "main": true,
+         "ingredients": "chicken, wood chips, salt, pepper, olive oil"
         },
         {
          "name": "Miso Roasted Cabbage Steaks with Tofu",
@@ -1053,28 +1046,55 @@
          "ingredients": "Cabbage, Tofu, Miso, Olive oil, Lemon Juice, Agave"
         },
         {
+         "name": "Butternut Squash and Edamame Salad",
+         "tags": [
+          "VG"
+         ],
+         "allergens": [
+          "Soy"
+         ],
+         "ingredients": "Butternut Squash, Edamame, Lemon Juice, Olive oil, salt"
+        },
+        {
          "name": "Green Peas",
          "tags": [
           "VG"
          ],
-         "ingredients": "peas"
+         "ingredients": "green peas"
         },
         {
-         "name": "Smoked Chicken",
-         "main": true,
-         "ingredients": "chicken, wood chips, salt, pepper, olive oil"
-        },
-        {
-         "name": "Vegan Soup",
+         "name": "Broccoli Raab, Mushroom & Corn Soup",
          "tags": [
           "VG"
-         ]
+         ],
+         "ingredients": "Broccoli Raab, mushrooms, corn, Vegetable Stock, Shallots, Garlic, Rice Bran Oil, Salt, Pepper, Herbs"
         }
        ]
       },
       {
        "name": "Rotating Plate",
        "items": [
+        {
+         "name": "Southern Stewed Chicken with Crispy Onions",
+         "main": true,
+         "allergens": [
+          "Milk",
+          "Soy"
+         ],
+         "ingredients": "Bone-in Chicken Thighs , Onion, Garlic, Chicken Stock (Onion, Carrot, Celery, Garlic, Herbs), Okra, Diced Tomatoes, Paprika, Butter, Flour, lemon Juice, Vegan Worcestershire sauce*, pepperoncini"
+        },
+        {
+         "name": "Smothered Cauliflower",
+         "main": true,
+         "tags": [
+          "V"
+         ],
+         "allergens": [
+          "Milk",
+          "Soy"
+         ],
+         "ingredients": "Cauliflower, Onion, Garlic, Paprika, Rice Bran Oil, Salt, Pepper, Red Pepper flakes, Parsley, Vegan Mayonnaise*, Dijon Mustard, Parmesan"
+        },
         {
          "name": "Collard Greens",
          "tags": [
@@ -1083,24 +1103,7 @@
          "ingredients": "collard Greeens, Onion, Garlic, Red Pepper flakes, Red wine vinegar, salt, Rice Bran Oil"
         },
         {
-         "name": "Smothered Cauliflower",
-         "main": true,
-         "tags": [
-          "VG"
-         ],
-         "ingredients": "Cauliflower, Onion, Garlic, Paprika, Rice Bran Oil, Salt, Pepper, Red Pepper flakes, Parsley"
-        },
-        {
-         "name": "Southern Stewed Chicken with Crispy Onions",
-         "main": true,
-         "allergens": [
-          "Milk"
-         ],
-         "ingredients": "Chicken Thighs , Onion, Garlic, Chicken Stock (Onion, Carrot, Celery, Garlic, Herbs) Okra, Dice Tomatoes, Paprika, Butter, Flour, lemon Juice, Worcestershire sauce"
-        },
-        {
-         "name": "Buttermilk Biscuits",
-         "main": true,
+         "name": "Buttermilk Cheddar Biscuits",
          "tags": [
           "V"
          ],
@@ -1108,7 +1111,7 @@
           "Milk",
           "Wheat"
          ],
-         "ingredients": "Butter, Flour, Heavy Cream, Salt, Sugar, Baking Powder, Buttermilk"
+         "ingredients": "Butter, Flour, Cheddar Cheese, Salt, Sugar, Baking Powder, Buttermilk"
         }
        ],
        "extras": [
@@ -1123,6 +1126,35 @@
       {
        "name": "Wok N tandoor",
        "items": [
+        {
+         "name": "Teriyaki Grilled Chicken",
+         "main": true,
+         "allergens": [
+          "Soy"
+         ],
+         "ingredients": "chicken, onions, bell peppers, rice bran oil, salt, pepper, teriyaki sauce (onion, ginger, garlic, tamari*, pineapple juice,  sake, vegan butter*,  mirin*, pepper, potato starch, sugar)"
+        },
+        {
+         "name": "Roasted Tofu and Cabbage with Teriyaki Sauce",
+         "main": true,
+         "tags": [
+          "VG"
+         ],
+         "allergens": [
+          "Soy"
+         ],
+         "ingredients": "Tofu, Cabbage,  rice bran oil, salt, pepper, teriyaki sauce (onion, ginger, garlic, tamari*, pineapple juice,  sake, vegan butter*, mirin*, potato starch, sugar)"
+        },
+        {
+         "name": "Roasted Eggplant with Soy Glaze",
+         "tags": [
+          "VG"
+         ],
+         "allergens": [
+          "Soy"
+         ],
+         "ingredients": "Eggplant, Cornstarch, Rice bran Oil, Salt, Sugar, Tamari*, sake"
+        },
         {
          "name": "Jasmine Rice",
          "tags": [
@@ -1139,35 +1171,6 @@
           "Sesame"
          ],
          "ingredients": "Cucumber, Salt, Gochugaru, Garlic, Sesame Oil, Sesame seeds, sugar"
-        },
-        {
-         "name": "Roasted Eggplant with Soy Glaze",
-         "tags": [
-          "VG"
-         ],
-         "allergens": [
-          "Soy"
-         ],
-         "ingredients": "Eggplant, Cornstarch, Rice bran Oil, Salt, Sugar, Tamari*, sake"
-        },
-        {
-         "name": "Roasted Tofu and Cabbage with Teriyaki Sauce",
-         "main": true,
-         "tags": [
-          "VG"
-         ],
-         "allergens": [
-          "Soy"
-         ],
-         "ingredients": "Tofu, Cabbage,  non-gmo rice bran oil, salt, pepper, teriyaki sauce (onion, ginger, garlic, tamari*, pineapple juice,  sake, vegan butter*, mirin*, potato starch, sugar)"
-        },
-        {
-         "name": "Teriyaki Grilled Chicken & Scallions",
-         "main": true,
-         "allergens": [
-          "Soy"
-         ],
-         "ingredients": "chicken, non-gmo rice bran oil, salt, pepper, teriyaki sauce (onion, ginger, garlic, tamari*, pineapple juice,  sake, vegan butter*,  mirin*, pepper, potato starch, sugar)"
         }
        ]
       },
@@ -1196,7 +1199,7 @@
          "ingredients": "Pizza Dough (Flour, Barley Malt, Yeast, Olive Oil, Salt, Edison Bread Flour), Fontina Cheese blend, Mushroom, Garlic, Salt, Pepper"
         },
         {
-         "name": "Pepperoni Pizza",
+         "name": "Cheese Pizza",
          "main": true,
          "tags": [
           "V"
@@ -1205,14 +1208,14 @@
           "Milk",
           "Wheat"
          ],
-         "ingredients": "Pizza Dough (Flour, Barley Malt, Yeast, Olive Oil, Salt, Edison Bread Flour) Tomato Sauce (Crushed Tomato, Olive Oil, Onion, Garlic, Basil, Oregano, Salt, Pepper) Mozzarella Cheese"
+         "ingredients": "Pizza dough (flour, yeast, sugar, salt) tomato sauce (tomato, onion, garlic, Italian seasoning, salt, black pepper), cheese"
         },
         {
          "name": "Chopped Salad",
          "tags": [
           "VG"
          ],
-         "ingredients": "Romaine lettuce, Red Cabbage, Garbanzo Bean, Tomato, Cucumber, Pickled Red Onion, Pickling Spice, Pepperoncini Peppers, Red Wine Vinegar, Oregano, Basil, Onion Powder, Salt, Black Pepper, Olive Oil, Rice Bran Oil, Basil, jalapeno, garlic powder, pickled cauliflower, carrot, garlic, cucumber, celery"
+         "ingredients": "Romaine lettuce, Iceberg lettuce, Red Cabbage, Radicchio, Garbanzo Bean, Tomato, Carrots, Cucumber, Pickled Red Onion, Pickling Spice, Pepperoncini Peppers, Red Wine Vinegar, Oregano, Basil, Onion Powder, Salt, Black Pepper, Olive Oil, Rice Bran Oil, Basil, jalapeno, garlic powder"
         }
        ]
       },
@@ -1231,6 +1234,7 @@
           "Egg",
           "Milk",
           "Soy",
+          "Tree nuts (walnut)",
           "Wheat"
          ],
          "ingredients": "pumpkin puree, evaporated milk, sugar, eggs, cinnamon, yellow cake mix*, walnuts, butter, cream cheese, powdered sugar, cool whip*",
@@ -1682,6 +1686,7 @@
          ],
          "allergens": [
           "Egg",
+          "Milk",
           "Soy",
           "Wheat"
          ],
@@ -1712,13 +1717,6 @@
        "name": "Continental Breakfast",
        "items": [
         {
-         "name": "Oats",
-         "tags": [
-          "VG"
-         ],
-         "ingredients": "Oats, water"
-        },
-        {
          "name": "Overnight Oats",
          "tags": [
           "VG"
@@ -1733,13 +1731,6 @@
          "ingredients": "coconut milk, chia seed, agave, salt"
         },
         {
-         "name": "Vegan Coconut Yogurt",
-         "tags": [
-          "VG"
-         ],
-         "ingredients": "Plant based Coconut Yogurt"
-        },
-        {
          "name": "Greek Yogurt",
          "tags": [
           "V"
@@ -1748,6 +1739,20 @@
           "Milk"
          ],
          "ingredients": "Greek Yogurt"
+        },
+        {
+         "name": "Vegan Coconut Yogurt",
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "Plant based Coconut Yogurt"
+        },
+        {
+         "name": "Oats",
+         "tags": [
+          "VG"
+         ],
+         "ingredients": "Oats, water"
         },
         {
          "name": "Hard Boiled Eggs",
@@ -1766,7 +1771,7 @@
          ]
         },
         {
-         "name": "Chocolate Cornetto",
+         "name": "Macrina Lemon Lavender Cake",
          "tags": [
           "V"
          ],
@@ -1775,51 +1780,42 @@
           "Milk",
           "Wheat"
          ]
-        },
-        {
-         "name": "Macrina Almond Chocolate Orange Coffee Cake",
-         "allergens": [
-          "Egg",
-          "Milk",
-          "Tree nuts (almond)",
-          "Wheat"
-         ]
         }
        ],
        "extras": [
         {
-         "label": "more",
+         "label": "toppings",
          "items": [
-          "Sourdough",
-          "Chia Seed",
-          "Cottage Cheese",
-          "Blueberries",
-          "Canteloupe",
-          "HoneyDew",
-          "Pineapple",
-          "Gluten Free Bread",
-          "Whole Wheat Bread",
-          "Spa Water 1",
-          "Spa Water 2"
+          "Assorted Toppings",
+          "Brown Sugar",
+          "Granola",
+          "Chocolate Chips",
+          "Golden Raisins",
+          "Assorted Spreads",
+          "Peanut Butter",
+          "Almond Butter",
+          "Cream Cheese",
+          "Butter",
+          "Assorted Nuts",
+          "Almonds",
+          "Walnut",
+          "Watermelon"
          ]
         },
         {
-         "label": "toppings",
+         "label": "more",
          "items": [
-          "Almond Butter",
-          "Almonds",
-          "Assorted Nuts",
-          "Assorted Spreads",
-          "Assorted Toppings",
-          "Brown Sugar",
-          "Butter",
-          "Chocolate Chips",
-          "Cream Cheese",
-          "Golden Raisins",
-          "Granola",
-          "Peanut Butter",
-          "Walnut",
-          "Watermelon"
+          "Chia Seed",
+          "Cottage Cheese",
+          "Canteloupe",
+          "Pineapple",
+          "HoneyDew",
+          "Blueberries",
+          "Gluten Free Bread",
+          "Sourdough",
+          "Whole Wheat Bread",
+          "Canteloupe, Cucumber, Lime, Mint Spa Water",
+          "Pineapple, Red Apple, Thyme Spa Water"
          ]
         },
         {
